@@ -63,3 +63,5 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 ### Pendientes
 - ~~Número de matrícula~~ → cargada (6796L4F20).
 - Aprobación de Francisco → pasar a `04_PARA_PACIENTES/`.
+- **Estado (2026-10-29):** Francisco todavía NO aprobó las guías v0.2 ni la infografía ("no me gustan aún"). Las sigue trabajando en otra compu. Preguntarle qué no le gusta antes de seguir.
+- Para regenerar los Word desde los originales: `python 03_EN_TRABAJO/herramientas/editar_guias.py 01_ORIGINALES 03_EN_TRABAJO 03_EN_TRABAJO/infografia_medallones/infografia.png` (requiere `pip install python-docx`). La infografía se edita en el HTML y se exporta a PNG/PDF con Edge o Chrome headless.
