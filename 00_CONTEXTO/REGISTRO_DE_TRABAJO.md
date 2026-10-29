@@ -61,5 +61,5 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 - `03_EN_TRABAJO/infografia_medallones/` (HTML editable, PNG y PDF).
 
 ### Pendientes
-- Número de matrícula para el membrete.
+- ~~Número de matrícula~~ → cargada (6796L4F20).
 - Aprobación de Francisco → pasar a `04_PARA_PACIENTES/`.
