@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><title>Medallones vegetales · Infografía</title>
+<style>
+:root{--g:#326C52;--d:#264545;--l:#EAF2EC;--c:#F9F6EF;--o:#C9772B;--lo:#FBEBDD}
+@page{size:8.5in 11in;margin:0}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:816px;height:1056px;background:#fff}
+body{font-family:"Segoe UI",Calibri,Arial,sans-serif;color:var(--d);padding:24px 34px 16px;display:flex;flex-direction:column;gap:9px}
+.emo{font-family:"Segoe UI Emoji","Noto Color Emoji",sans-serif}
+header{border-bottom:2.5px solid var(--g);padding-bottom:8px;display:flex;justify-content:space-between;align-items:flex-end}
+header h1{font-size:31px;color:var(--g);line-height:1;font-weight:800;letter-spacing:-.5px}
+header p{font-size:13.5px;margin-top:5px}
+.tag{font-size:10.5px;font-weight:700;color:var(--g);letter-spacing:1px;text-align:right}
+h2{font-size:14px;font-weight:800;color:#fff;background:var(--g);display:inline-block;padding:4px 12px;border-radius:14px;letter-spacing:.6px}
+.sec{display:flex;flex-direction:column;gap:6px}
+/* fórmula */
+.formula{display:grid;grid-template-columns:1fr 18px 1fr 18px 1fr 18px 1fr;align-items:stretch}
+.plus{display:flex;align-items:center;justify-content:center;font-size:26px;font-weight:800;color:var(--g)}
+.card{background:var(--c);border:2px solid var(--l);border-radius:12px;padding:8px 9px;text-align:center}
+.card .ic{font-size:25px;line-height:1.1}
+.card h3{font-size:14px;color:var(--g);margin:2px 0 1px;font-weight:800}
+.card .q{font-size:11px;font-weight:700;color:var(--o);margin-bottom:4px}
+.card ul{list-style:none;font-size:10.6px;line-height:1.32;text-align:left}
+.card li::before{content:"• ";color:var(--g)}
+.card .sub{font-size:10px;font-weight:700;color:var(--g);text-transform:uppercase;letter-spacing:.4px;margin-top:3px}
+.result{display:flex;align-items:center;justify-content:center;gap:10px;margin-top:2px}
+.result .arr{font-size:22px;color:var(--g);font-weight:800}
+.result .pill{background:var(--g);color:#fff;border-radius:22px;padding:6px 18px;font-weight:800;font-size:15px}
+/* pasos */
+.flow{display:grid;grid-template-columns:repeat(4,1fr);gap:18px 22px;position:relative}
+.step{background:var(--l);border-radius:12px;padding:6px 9px 7px;position:relative;min-height:96px}
+.step .n{position:absolute;top:-9px;left:-9px;width:24px;height:24px;border-radius:50%;background:var(--o);color:#fff;font-weight:800;font-size:13px;display:flex;align-items:center;justify-content:center}
+.step .ic{font-size:21px;text-align:center;line-height:1.15}
+.step h4{font-size:12.5px;text-align:center;color:var(--g);font-weight:800;margin:2px 0 3px}
+.step p{font-size:10.4px;line-height:1.3;text-align:center}
+.step.a::after{content:"";position:absolute;right:-19px;top:50%;width:0;height:0;border-left:14px solid var(--o);border-top:9px solid transparent;border-bottom:9px solid transparent;transform:translateY(-50%)}
+.step.down::after{content:"";position:absolute;left:50%;bottom:-19px;width:0;height:0;border-top:14px solid var(--o);border-left:9px solid transparent;border-right:9px solid transparent;transform:translateX(-50%)}
+.step.l::after{content:"";position:absolute;left:-19px;top:50%;width:0;height:0;border-right:14px solid var(--o);border-top:9px solid transparent;border-bottom:9px solid transparent;transform:translateY(-50%)}
+.phase{font-size:10.5px;font-weight:800;color:var(--o);letter-spacing:.8px}
+/* tips */
+.tips{display:grid;grid-template-columns:repeat(3,1fr);gap:9px}
+.tip{border:2px solid var(--l);border-radius:12px;padding:5px 8px;display:flex;gap:8px;align-items:flex-start;background:#fff}
+.tip .ic{font-size:20px;line-height:1}
+.tip h5{font-size:11.8px;color:var(--g);font-weight:800;margin-bottom:1px}
+.tip p{font-size:10.2px;line-height:1.3}
+.combos{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}
+.combo{background:var(--lo);border-radius:10px;padding:5px 7px;font-size:10.2px;line-height:1.3}
+.combo b{color:var(--o)}
+footer{margin-top:auto;border-top:1.5px solid var(--l);padding-top:6px;display:flex;justify-content:space-between;font-size:9.6px;color:var(--d)}
+footer b{color:var(--g)}
+</style></head><body>
+<header>
+  <div><h1>Medallones vegetales</h1><p>Una fórmula, muchas combinaciones. Cociná con lo que tengas.</p></div>
+  <div class="tag">INFOGRAFÍA<br>GUÍA PARA PACIENTES</div>
+</header>
+
+<section class="sec">
+  <div><h2>1 · LA FÓRMULA</h2></div>
+  <div class="formula">
+    <div class="card"><div class="ic emo">🫘</div><h3>LEGUMBRE</h3><div class="q">2 partes · cocida</div>
+      <ul><li>Lentejas (comunes, rojas, negras)</li><li>Garbanzos</li><li>Porotos (negros, colorados, alubia, mung, aduki)</li><li>Arvejas secas</li><li>Habas · Soja</li></ul></div>
+    <div class="plus">+</div>
+    <div class="card"><div class="ic emo">🌾</div><h3>GRANO</h3><div class="q">1 parte · cocido</div>
+      <div class="sub">Cereales</div><ul><li>Avena · Arroz (blanco, integral, yamaní)</li><li>Mijo · Cebada · Maíz (choclo, polenta)</li><li>Trigo burgol · Sorgo</li></ul>
+      <div class="sub">Pseudocereales</div><ul><li>Quinoa · Amaranto</li><li>Trigo sarraceno</li></ul></div>
+    <div class="plus">+</div>
+    <div class="card"><div class="ic emo">🧄🧅🌿</div><h3>SABORES</h3><div class="q">a gusto</div>
+      <ul><li>Ajo, cebolla, puerro, verdeo salteados</li><li>Morrón, zanahoria o zapallito rallados</li><li>Perejil, albahaca, orégano</li><li>Comino, pimentón, cúrcuma, curry</li><li>Sal: poca</li></ul></div>
+    <div class="plus">+</div>
+    <div class="card"><div class="ic emo">🥚</div><h3>PARA UNIR</h3><div class="q">si hace falta</div>
+      <ul><li>Huevo (opcional)</li><li>Sin huevo: chía o lino molido hidratados</li><li>Si está húmeda: avena fina o harina de legumbres</li><li>Para rebozar: avena fina, harina de arroz o de legumbres</li></ul></div>
+  </div>
+  <div class="result"><span class="arr">⟶</span><span class="pill">= TUS MEDALLONES</span><span class="arr">⟵</span></div>
+</section>
+
+<section class="sec">
+  <div style="display:flex;justify-content:space-between;align-items:center"><h2>2 · PASO A PASO</h2><span class="phase">PRIMERA FILA: UNA VEZ POR SEMANA · SEGUNDA FILA: EL DÍA QUE COCINÁS</span></div>
+  <div class="flow">
+    <div class="step a"><div class="n">1</div><div class="ic emo">💧</div><h4>Remojar</h4><p>Legumbre seca en mucha agua, una noche. Si el remojo es largo, en la heladera.</p></div>
+    <div class="step a"><div class="n">2</div><div class="ic emo">🍲</div><h4>Cocinar</h4><p>Tirá el agua del remojo. Cociná en agua nueva hasta que estén tiernas.</p></div>
+    <div class="step a"><div class="n">3</div><div class="ic emo">🥣</div><h4>Escurrir y porcionar</h4><p>Dividí en porciones. Variá la legumbre cada semana.</p></div>
+    <div class="step down"><div class="n">4</div><div class="ic emo">❄️</div><h4>Guardar</h4><p>Heladera: hasta 3 días.<br>Freezer: hasta 3 meses.</p></div>
+    <div class="step"><div class="n">8</div><div class="ic emo">🍳</div><h4>Cocinar</h4><p>Plancha, horno o freidora de aire, hasta que estén firmes y dorados.</p></div>
+    <div class="step l"><div class="n">7</div><div class="ic emo">✋</div><h4>Formar</h4><p>Armá los medallones y pasalos por avena fina o harina.</p></div>
+    <div class="step l"><div class="n">6</div><div class="ic emo">🥄</div><h4>Mezclar y ajustar</h4><p>Sumá el grano cocido (y huevo). ¿Húmeda? + avena fina. ¿Seca? + un poco de agua. Reposar.</p></div>
+    <div class="step l"><div class="n">5</div><div class="ic emo">⚙️</div><h4>Procesar</h4><p>Legumbre bien escurrida + ajo + condimentos → pasta espesa. Dejá una parte con textura.</p></div>
+  </div>
+</section>
+
+<section class="sec">
+  <div><h2>3 · COMBINACIONES PARA EMPEZAR</h2></div>
+  <div class="combos">
+    <div class="combo"><b>Lentejas</b> + avena + cebolla + pimentón</div>
+    <div class="combo"><b>Garbanzos</b> + arroz + puerro + comino</div>
+    <div class="combo"><b>Porotos negros</b> + choclo + verdeo + comino</div>
+    <div class="combo"><b>Porotos</b> + quinoa + morrón + perejil</div>
+    <div class="combo"><b>Arvejas</b> + mijo + cebolla + pimienta</div>
+    <div class="combo"><b>Soja</b> + amaranto + ajo + hierbas</div>
+    <div class="combo"><b>Lentejas rojas</b> + trigo sarraceno + zanahoria + curry</div>
+    <div class="combo"><b>Garbanzos</b> + cebada + espinaca + ajo</div>
+  </div>
+</section>
+
+<section class="sec">
+  <div><h2>4 · TRUCOS</h2></div>
+  <div class="tips">
+    <div class="tip"><div class="ic emo">🍅🍋</div><div><h5>Vitamina C → más hierro</h5><p>Acompañá con tomate, morrón crudo o limón: ayudan a absorber el hierro vegetal.</p></div></div>
+    <div class="tip"><div class="ic emo">🧩</div><div><h5>¿Se desarman?</h5><p>Escurrí mejor, procesá más legumbre, sumá avena fina y dejá reposar.</p></div></div>
+    <div class="tip"><div class="ic emo">🧂</div><div><h5>Menos sal</h5><p>Ajo, cebolla, hierbas, especias y limón dan sabor sin sumar sodio.</p></div></div>
+    <div class="tip"><div class="ic emo">🧪</div><div><h5>Bicarbonato: solo una pizca</h5><p>Ablanda las legumbres; en exceso cambia el sabor y se pierden vitaminas.</p></div></div>
+    <div class="tip"><div class="ic emo">🌾</div><div><h5>¿Celiaquía?</h5><p>Evitá trigo, cebada y centeno. Usá avena certificada sin TACC.</p></div></div>
+    <div class="tip"><div class="ic emo">📦</div><div><h5>Freezer</h5><p>Congelá los medallones crudos separados en bandeja; después guardalos juntos.</p></div></div>
+  </div>
+</section>
+
+<footer><span><b>Dr. Francisco Carena León</b> · Médico · Mg. en Psiconeuroinmunoendocrinología · M.P. ______</span><span>2026</span></footer>
+</body></html>

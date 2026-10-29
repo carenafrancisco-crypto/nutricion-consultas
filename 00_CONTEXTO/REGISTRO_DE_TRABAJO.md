@@ -41,3 +41,25 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 4. Leer la sección 5 de la ADA 2026, la sección Lp(a) de la ESC/EAS 2025 y la niacina/aspirina del consenso EAS 2022.
 5. OCR del libro (requiere instalar Tesseract o que Francisco lo apruebe) — solo para la rama pediátrica.
 6. Leer las respuestas del asistente de las conversaciones 2–6 y 9 cuando se trabaje cada tema.
+
+## 2026-10-29 — Guías de medallones vegetales (programa general)
+
+### Entró
+- Francisco aportó dos Word: guía práctica y guía ampliada de medallones vegetales. Los originales quedan sin tocar en `01_ORIGINALES/`.
+
+### Producido
+- `03_EN_TRABAJO/Guia_practica_medallones_vegetales_v0.2.docx` y `Guia_ampliada_medallones_vegetales_v0.2.docx`:
+  - Membrete en el encabezado (falta el número de matrícula: `M.P. ______`).
+  - Más ejemplos de legumbres, cereales y pseudocereales; nota sobre celiaquía (TACC), sal, bicarbonato, conservación (heladera 3 días / freezer 3 meses) y ligante sin huevo (chía o lino).
+  - 3 combinaciones nuevas (ahora son 8).
+  - Infografía al final de cada guía.
+  - Ampliada: se sacó "la preparación original propone"; referencias verificadas (Europe PMC / Crossref):
+    - [2] Herreman 2020: DIAAS 85 (arveja/trigo 60/40) y 92 (soja/avena 90/10) correctos, pero son con el patrón de **0,5–3 años** y modelados con datos de cerdo. Aclarado en el texto.
+    - [3] Han 2021: mung 93, mijo 22, mezcla 66 (patrón >3 años). Correcto; se agregó el dato del mijo.
+    - [5] completada: Anaemene D, Fadupin G. Appl Food Res 2022. La frase "24–48 h o más" no se pudo verificar → se sacó.
+    - [6] Del-Angel 1982 no estaba citada en el texto → ahora se cita.
+- `03_EN_TRABAJO/infografia_medallones/` (HTML editable, PNG y PDF).
+
+### Pendientes
+- Número de matrícula para el membrete.
+- Aprobación de Francisco → pasar a `04_PARA_PACIENTES/`.
