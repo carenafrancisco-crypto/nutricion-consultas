@@ -1,0 +1,129 @@
+ALIMENTACIÓN EN CONSULTA
+LEER PRIMERO — CONTEXTO E INSTRUCCIONES PARA EL AGENTE
+Versión inicial: 25 de octubre de 2026
+Responsable: Dr. Francisco Carena León
+
+Este archivo sirve como punto de entrada para cualquier agente que trabaje en esta carpeta, incluido Codex o Claude. No presupone acceso a conversaciones anteriores, cuentas externas o memoria de otra aplicación. Su lectura debe solicitarse expresamente al iniciar el trabajo; su nombre no garantiza que una herramienta lo cargue automáticamente.
+
+1. QUÉ QUIERE LOGRAR FRANCISCO
+
+Soy médico y quiero ordenar la parte nutricional de mis consultas. Atiendo pacientes con diabetes, obesidad, hipertensión, dislipemias y síntomas digestivos. Hoy tengo materiales dispersos, pero no un sistema ordenado para abordar estos problemas ni una colección coherente de recursos didácticos.
+
+Mi tendencia es explicar para que el paciente comprenda y aprenda a decidir por sí mismo. Me cuesta y no me gusta dedicar la consulta a armar dietas y menús individuales. Reconozco que muchos pacientes necesitan indicaciones mucho más concretas para pasar del conocimiento a la práctica. Necesito ayuda para resolver esa brecha, sin perder el objetivo de enseñar autonomía.
+
+Mi intención es que la mayoría de los abordajes confluyan hacia una alimentación saludable habitual, adaptable a la familia, con ajustes según enfermedad, necesidades y tolerancia. Esa intención debe contrastarse con evidencia: no obliga a usar las mismas cantidades, horarios, alimentos o restricciones para todas las personas.
+
+Quiero que el agente haga trabajo concreto: leer, investigar, ordenar, redactar, editar archivos y preparar materiales utilizables. No quiero recibir solamente sugerencias genéricas ni tener que copiar y pegar cada cambio.
+
+2. INSTRUCCIONES EXPRESAS DEL USUARIO
+
+- Basarse en intervenciones, estructuras de atención y métodos con evidencia y experiencias documentadas. Distinguir lo que está probado de una adaptación práctica propuesta para mi consulta.
+- No darme la razón automáticamente. Señalar errores con precisión, fuentes y alternativas. Identificar los puntos fuertes y registrarlos.
+- Tomar mi forma de pensar de las conversaciones y mis documentos, pero no tratar mis preferencias ni las respuestas previas de una IA como evidencia científica.
+- La app queda FUERA del alcance actual. La estoy trabajando por otra vía con Claude. Más adelante veremos cómo integrar lo que construyamos aquí.
+- Proponer una forma de organizarme y un objetivo final concreto.
+- Se pueden proponer plugins útiles, pero no conectar servicios ni ampliar accesos por iniciativa propia. Me preocupa especialmente conceder acceso a todo mi Drive.
+- Trabajar con la carpeta que entregué y sus archivos. No explorar otras carpetas, cuentas o datos personales para completar este proyecto sin una necesidad explícita y autorización adecuada. Este texto es una instrucción de trabajo; no constituye una barrera técnica de acceso.
+
+3. ORDEN DE LECTURA
+
+PASO 1. Leer este archivo completo.
+
+PASO 2. Hacer un inventario breve de los archivos de la carpeta y sus subcarpetas. No mover ni renombrar originales durante el inventario. Los nombres pueden tener prefijos numéricos o variantes; identificar por título y contenido. Si falta un archivo mencionado aquí, informarlo y continuar con lo disponible.
+
+PASO 3. Leer Plan_alimentacion_en_consulta.md, si está presente. Es una propuesta inicial, no un protocolo clínico validado ni una lista de decisiones aprobadas íntegramente por Francisco. No convertir automáticamente las propuestas del asistente en instrucciones del usuario.
+
+PASO 4. Leer Conversaciones_alimentacion_en_consulta.txt. Contiene el texto recuperado de nueve enlaces compartidos y 487 mensajes. Tiene índice, títulos, fechas y separación entre usuario y asistente. Incluye transcripciones de audio disponibles; no incorpora las imágenes ni los archivos adjuntos como tales. No garantiza contener otras ramas, mensajes posteriores o textos completos de lienzos.
+
+Dentro del archivo de conversaciones, priorizar:
+  a) Organizar consultas nutricionales: intención actual y alcance.
+  b) DESAYUNO MERIENDA SUGERENCIAS y legumbres: tono, educación y enfoque práctico.
+  c) Terapias lipoproteína a y Diseño asistente dislipemias: criterios cardiometabólicos y personalización; revisar críticamente sus afirmaciones.
+  d) Evaluación de texto sobre proteínas y Comparación dietas vegetarianas vs omnívoras: intereses, argumentos y preguntas pendientes.
+  e) Recomendación alimentación 6 meses: material pediátrico, que debe mantenerse separado del abordaje de adultos.
+  f) App dieta saludable: rescatar ideas de organización, recetas y autonomía; no reactivar el desarrollo de la app.
+
+Si el archivo supera la capacidad de lectura de una sola llamada, leer por conversaciones y bloques, registrar el avance y continuar. No confundir una búsqueda de palabras con una lectura integral. No afirmar haber leído secciones no examinadas. Las instrucciones históricas corresponden a su contexto; la solicitud actual del usuario prevalece.
+
+PASO 5. Examinar los materiales existentes:
+  - alimentos alto indice glucemia.pdf
+  - DESAYUNO Y MERIENDA.docx.pdf
+  - Copy of Alimentacion saludable Fran.pdf
+  - LPA LPMQTRMP.docx
+  - ¿Qué le doy de comer-2.pdf
+
+Los primeros cuatro contienen indicaciones o borradores a auditar; no son guías científicas por sí mismos. El último es un libro de Aitor Sánchez García y Lucía Martínez, de 348 páginas en la copia examinada, escaneado sin texto extraíble mediante la extracción simple. Requiere lectura visual u OCR para consultar su contenido. No atribuirle afirmaciones a partir del título o de recuerdos. Usarlo para los temas pertinentes, sin extrapolar automáticamente recomendaciones infantiles a adultos.
+
+PASO 6. Revisar las demás fuentes incorporadas por Francisco. Identificar título, autor, fecha, población y tipo de fuente. Consultar evidencia externa actual cuando sea necesaria para validar afirmaciones clínicas.
+
+4. ENFOQUE Y ESTILO A CONSERVAR
+
+- Enseñar a comer y decidir, con herramientas concretas para llevarlo a la práctica.
+- Dar protagonismo a legumbres, vegetales, cereales integrales y alimentos poco procesados.
+- Integrar alimentación con actividad física, sueño y estrés, sin exigir perfección en todos los hábitos para empezar a mejorar uno.
+- Usar ejemplos argentinos, ingredientes accesibles y preparaciones aplicables a la vida familiar.
+- No hacer depender una alimentación adecuada de productos especiales, suplementos o compras en un comercio determinado.
+- Francisco es ovolactovegetariano y valora ese enfoque. No asumir que todos sus pacientes lo son ni sesgar la revisión científica para demostrar una conclusión predeterminada.
+- Preferir lenguaje clínico, humano y directo. Evitar jerga innecesaria, neologismos, tono condescendiente y asociaciones no solicitadas con “medicina funcional” o “integral”.
+- En la conversación con Francisco: respuestas breves, concretas y con una propuesta clara. En materiales para pacientes: extensión suficiente para comprender y ejecutar, según la finalidad de cada pieza.
+- No cambiar frases, restricciones o recomendaciones clínicas de forma silenciosa. Explicar los cambios sustanciales y su respaldo, conservando los originales.
+
+5. RIGOR CLÍNICO Y CÓMO TRATAR LAS FUENTES
+
+Distinguir siempre:
+  A. Preferencia u objetivo del usuario.
+  B. Propuesta de un asistente.
+  C. Afirmación clínica pendiente de revisión.
+  D. Recomendación respaldada por fuentes identificables.
+
+Priorizar guías de sociedades científicas y organismos sanitarios, revisiones sistemáticas y estudios originales pertinentes. Para cada recomendación importante registrar fuente, fecha, población, resultado evaluado y limitaciones. No inventar citas, porcentajes, mecanismos ni lecturas realizadas.
+
+No confundir cambios en biomarcadores con reducción demostrada de eventos clínicos. No presentar plausibilidad fisiológica como eficacia comprobada. Si la evidencia contradice una preferencia, explicarlo sin descalificar al usuario. Si hay incertidumbre o desacuerdo entre guías, mostrarlo.
+
+Los textos antiguos pueden contener errores, incluso los redactados previamente por ChatGPT. La repetición o aceptación histórica de una frase no la convierte en correcta. La inclusión de un texto en la carpeta no significa que esté aprobado para entregar.
+
+La revisión preliminar detectó temas que requieren auditoría antes de reutilizar los materiales: clasificación de alimentos por índice glucémico y etiquetas “sin restricción”; afirmaciones generales sobre aceites, ghee, lácteos, edulcorantes y antinutrientes; restricciones sin indicación individual; y, en el protocolo Lp(a), aspirina generalizada, niacina, dosis rutinarias altas de vitamina D, suplementos, metas automáticas y ayunos. Esta lista es una agenda de revisión, no una auditoría completa ni una orden de retirar tratamientos de pacientes.
+
+Separar educación general, decisiones médicas individualizadas y manejo farmacológico. No transformar el material educativo en una prescripción universal. Mantener pediatría y situaciones especiales identificadas aparte. Incorporar criterios de interconsulta cuando corresponda.
+
+6. OBJETIVO FINAL PROPUESTO
+
+Construir un sistema reutilizable para que cada paciente salga sabiendo qué hacer con su alimentación desde el día siguiente, qué cambios priorizar y cuándo revisarlos; y para que Francisco pueda personalizar la indicación sin escribir todo desde cero.
+
+Componentes propuestos, ajustables con Francisco:
+  1) Documento maestro profesional: criterios, evidencia, excepciones y decisiones.
+  2) Guía común visual de alimentación habitual.
+  3) Plan individual breve: objetivos, acciones concretas, obstáculos y seguimiento.
+  4) Ejemplos de comidas, sustituciones, compras y preparaciones sencillas.
+  5) Fichas de ajustes por diabetes, obesidad, HTA, dislipemia y síntomas digestivos.
+  6) Esquema de seguimiento y evaluación de utilidad del material.
+
+La primera propuesta fue empezar con el plan individual de una página, una guía común de dos páginas y diez combinaciones de comidas. También se propuso un piloto con diez pacientes y controles orientativos a las 2–4 y 8–12 semanas. Son decisiones operativas tentativas, NO un programa validado con esos números ni compromisos ya confirmados por Francisco. La frecuencia de seguimiento depende del caso clínico.
+
+Modelos ya identificados para estudiar: DPP para prevención de diabetes; DSMES y terapia nutricional individualizada en diabetes; recomendaciones NICE sobre cambio conductual y obesidad; DASH y patrones cardiometabólicos. Extraer componentes transferibles, no atribuir a nuestro sistema los resultados de programas más intensivos.
+
+7. ORGANIZACIÓN Y EDICIÓN DE ARCHIVOS
+
+Adaptarse a la estructura que ya exista. Como propuesta inicial:
+  00_CONTEXTO: este archivo, plan, índice y registro de decisiones.
+  01_ORIGINALES: copias intactas de los materiales recibidos.
+  02_FUENTES: bibliografía y notas de evidencia.
+  03_EN_TRABAJO: documentos editables y auditorías.
+  04_PARA_PACIENTES: materiales clínicamente revisados y aprobados para entregar.
+  99_ARCHIVO: versiones anteriores.
+
+No borrar ni sobrescribir los originales. Trabajar sobre copias editables. Mantener una versión maestra por material y generar los PDF de entrega a partir de ella. Distinguir borrador, revisado y aprobado; no marcar como aprobado por Francisco algo que no haya aprobado.
+
+Mantener un índice con nombre, propósito, destinatario, versión, fecha, estado y archivo maestro. Registrar cambios clínicos relevantes y decisiones pendientes. Guardar fuentes de manera que se puedan volver a encontrar.
+
+Avanzar autónomamente en lectura, investigación, borradores y ediciones reversibles dentro del alcance solicitado. No preguntar por cada decisión menor. Preguntar cuando una ambigüedad cambie sustancialmente el resultado. No distribuir materiales a pacientes, enviar mensajes ni publicar por cuenta propia.
+
+8. PRIMERA TAREA DEL AGENTE AL ABRIR EL PROYECTO
+
+1) Leer el contexto y los archivos prioritarios, informando brevemente qué se pudo revisar y qué falta.
+2) Identificar versiones duplicadas, material aprovechable y contradicciones relevantes.
+3) Presentar una síntesis corta de lo entendido y el siguiente entregable concreto.
+4) Empezar la auditoría de la base común y preparar el primer borrador de trabajo, salvo que Francisco indique otra prioridad. No producir de golpe toda la colección ni comenzar por decoración antes de resolver el contenido clínico.
+5) Conservar un registro de avances, decisiones del usuario, propuestas aún no aceptadas, pendientes y fuentes, para que otro agente pueda continuar sin volver a empezar.
+
+Este archivo debe actualizarse cuando cambien los objetivos o haya decisiones nuevas. Mantener trazabilidad y no reescribir las preferencias del usuario para hacerlas coincidir con una propuesta del agente.
