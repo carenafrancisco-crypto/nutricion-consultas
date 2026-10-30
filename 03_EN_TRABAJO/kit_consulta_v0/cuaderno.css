@@ -1,0 +1,88 @@
+/* Estilo "apuntes de cuaderno" compartido por todas las hojas del kit. */
+/* Las fuentes se cargan con <link> en cada hoja (Kalam + Atkinson Hyperlegible). */
+:root{
+  --ink:#1E3557;      /* tinta azul de lapicera */
+  --graphite:#4F5157; /* lápiz */
+  --grid:#DCE8EF;     /* cuadriculado */
+  --margin:#E3867B;   /* margen del cuaderno */
+  --red:#C8372D;      /* birome roja: lo importante */
+  --garb:#D9A441;     /* garbanzo */
+  --lent:#7C8C3C;     /* lenteja */
+  --poroto:#A2432F;   /* poroto */
+  --water:#BFD9E6;
+  --marker:#FBE38A;   /* resaltador */
+}
+@page{size:8.5in 11in;margin:0}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{width:816px;height:1056px}
+body{
+  font-family:"Atkinson Hyperlegible",Verdana,sans-serif;color:var(--ink);font-size:14.5px;line-height:1.34;
+  background-color:#fff;
+  background-image:linear-gradient(var(--grid) 1px,transparent 1px),linear-gradient(90deg,var(--grid) 1px,transparent 1px);
+  background-size:20px 20px;background-position:0 6px;
+  padding:24px 40px 14px 104px;position:relative;display:flex;flex-direction:column;gap:10px;
+  -webkit-print-color-adjust:exact;print-color-adjust:exact;
+}
+body::before,body::after{content:"";position:absolute;top:0;bottom:0;width:1.5px;background:var(--margin)}
+body::before{left:80px}body::after{left:84px}
+
+.hand{font-family:"Kalam",cursive}
+.red{color:var(--red)}
+.hl{background:linear-gradient(transparent 45%,var(--marker) 45%,var(--marker) 92%,transparent 92%);padding:0 2px}
+.muted{color:var(--graphite)}
+
+header h1{font-family:"Kalam",cursive;font-weight:700;font-size:44px;line-height:1;letter-spacing:-.5px}
+header .squiggle{display:block;margin:0 0 2px -4px}
+header p{font-size:17px;color:var(--graphite)}
+
+h3{font-family:"Kalam",cursive;font-size:23px;font-weight:700;line-height:1.1;margin-bottom:3px}
+
+/* dibujos y notas en el margen (zona izquierda de la línea roja) */
+.doodle{position:absolute;left:12px;width:58px;text-align:center;font-family:"Kalam",cursive;color:var(--red);font-size:15px;line-height:1.05}
+.doodle svg{display:block;margin:0 auto 2px}
+
+/* anotación a mano en rojo */
+.ann{font-family:"Kalam",cursive;color:var(--red);font-size:17px;line-height:1.15}
+.ann.tilt{display:inline-block;transform:rotate(-3deg)}
+
+/* pasos numerados en el margen */
+ol.steps{list-style:none;display:flex;flex-direction:column;gap:6px}
+ol.steps li{position:relative}
+ol.steps li .n{position:absolute;left:-52px;top:-6px;font-family:"Kalam",cursive;font-weight:700;font-size:30px;color:var(--margin);width:30px;text-align:center}
+ol.steps li b{font-family:"Kalam",cursive;font-size:21px;font-weight:700;display:block;line-height:1.05;margin-bottom:1px}
+ol.steps li span{color:var(--graphite)}
+
+/* nota pegada con cinta */
+.note{position:relative;background:#fff;padding:16px 16px 12px;transform:rotate(1.2deg);
+  box-shadow:2px 3px 0 rgba(30,53,87,.07);border:1px solid #E9E4D8}
+.note::before,.note::after{content:"";position:absolute;top:-11px;width:78px;height:22px;background:rgba(222,205,160,.55)}
+.note::before{left:-14px;transform:rotate(-24deg)}
+.note::after{right:-14px;transform:rotate(22deg)}
+.note.left{transform:rotate(-1deg)}
+.note h2{font-family:"Kalam",cursive;font-size:25px;line-height:1.02;font-weight:700}
+.note h2 small{display:block;font-size:19px;font-weight:400;color:var(--poroto)}
+.note p{font-size:13.5px;margin-top:5px;line-height:1.32}
+
+/* recuadro dibujado a mano */
+.box{border:2px solid var(--ink);padding:8px 12px;background:#fff;border-radius:16px 4px 14px 5px / 5px 14px 4px 16px}
+.box.alert{border-color:var(--red)}
+
+/* listas con punto de birome */
+ul.dots{list-style:none;font-size:13.5px;color:var(--graphite)}
+ul.dots li{padding-left:16px;position:relative;margin-bottom:1px}
+ul.dots li::before{content:"";position:absolute;left:2px;top:7px;width:7px;height:7px;border-radius:50%;background:var(--garb)}
+
+/* casilleros de la semana */
+.days{display:grid;grid-template-columns:repeat(7,1fr);gap:8px}
+.day{border:2px solid var(--ink);padding:4px 6px 5px;font-size:12.5px;line-height:1.2;min-height:58px;background:#fff;
+  border-radius:14px 3px 12px 4px / 4px 12px 3px 14px}
+.day:nth-child(even){border-radius:4px 13px 3px 12px / 12px 4px 14px 3px}
+.day b{font-family:"Kalam",cursive;font-size:19px;display:block;line-height:1}
+.day.on{background:#FBF1DC}
+
+/* líneas para completar */
+.blank{display:inline-block;min-width:56px;border-bottom:2px solid var(--ink)}
+.blank.w{min-width:130px}
+
+footer{margin-top:auto;display:flex;justify-content:space-between;align-items:flex-end;font-size:12px;color:var(--graphite)}
+footer .sig{font-family:"Kalam",cursive;font-size:21px;color:var(--ink);line-height:1}

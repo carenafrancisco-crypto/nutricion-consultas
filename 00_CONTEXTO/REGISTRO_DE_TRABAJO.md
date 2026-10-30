@@ -107,3 +107,15 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 - Francisco: el diseño v0.1 le parece una plantilla genérica de IA. Elegido: estilo "cuaderno de cocina", ilustraciones propias, impreso y celular, pacientes muy variados (letra grande).
 - Prototipo `kit_consulta_v0/K2_legumbres_v0.2` (HTML, PDF 1 hoja, PNG): hoja de cuaderno cuadriculado argentino con margen rojo; títulos en Kalam (manuscrita), texto en Atkinson Hyperlegible (para baja visión); frasco fermentando dibujado, pegado con cinta como nota. Mismo contenido que v0.1, incluido el remojo fermentado.
 - Pendiente: OK de Francisco para aplicar el estilo a K3 merencenas y a los medallones. Las fuentes se bajan de Google Fonts al renderizar (hace falta internet).
+
+## 2026-10-30 (parte 5) - Kit en estilo cuaderno + hoja "Mejor juntas"
+### Entró
+- Francisco aprobó el estilo cuaderno; pidió apuntes prolijos (anotaciones en rojo, signos de exclamación, caritas en el margen).
+- Indicación nueva: una legumbre y un cereal por semana; fraccionar en frasquitos reutilizados de queso crema o de crema, tapercitos o de plástico (los de vidrio cuestan desmoldar congelados); misma legumbre en preparaciones distintas toda la semana.
+- Hoja nueva: por qué combinar legumbre y cereal el mismo día (mejor en el mismo plato) + su relato de las semillas (tuna en San Luis, dispersión por animales, antinutrientes, dientes, fuego y bacterias). Título elegido: "Legumbre + cereal: mejor juntas" ("hermandad" sonaba raro).
+### Producido
+- `kit_consulta_v0/cuaderno.css`: estilo compartido (fuente única del diseño).
+- `K2_legumbres_v0.3`, `K3_merencenas_v0.2`, `K4_mejor_juntas_v0.1` (HTML + PDF de 1 hoja + PNG). Se borraron K2 v0.1/v0.2 y K3 v0.1 (quedan en el historial de git).
+### Pendientes
+- Pasar la infografía de medallones al estilo cuaderno.
+- Revisión de Francisco de las tres hojas.
