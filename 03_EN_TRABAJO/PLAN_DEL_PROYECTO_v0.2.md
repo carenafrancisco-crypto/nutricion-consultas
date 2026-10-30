@@ -6,9 +6,9 @@
 
 ## 1. Reglas de trabajo
 
-1. **Producir mientras se construye.** Cada etapa termina con al menos una pieza `EN USO` en consulta. Usar algo no significa que esté aprobado: se mejora usándolo.
+1. **Producir mientras se construye.** Cada etapa termina con al menos una pieza `LISTO PARA PROBAR` en consulta. Usar algo no significa que esté aprobado: se mejora usándolo.
 2. **No abrir frentes sin cerrar.** Antes de empezar una pieza nueva, revisar qué pieza ya está en uso.
-3. **Las indicaciones de Francisco se conservan.** Nunca se borran por falta de evidencia. Se registran su fundamento, el tipo de respaldo (`IF`, `E1`, `E2`, `E3`), las dudas y la bibliografía pendiente. Una `IF` sin `E1` se usa de forma individualizada, no como regla para toda la población.
+3. **Indicaciones de Francisco: se habla con él antes de tocar.** El original se conserva; si hay evidencia en contra, se marca la objeción con su respaldo y él decide explícitamente qué llega al paciente.
 4. **Fuente única.** Cada conocimiento reutilizable vive en un solo archivo de `03_EN_TRABAJO/conocimiento/`. El Word, la infografía, el bot y la app lo toman de ahí.
 5. **El seguimiento se diseña con cada pieza**: objetivo, acción, pregunta semanal, barreras y resultado evaluable (índice, sección 7).
 6. **No se duplica lo que ya existe en el bot** (`drcarenaleonbotnutri/`, repo aparte). Primero se revisa qué hay.
@@ -59,7 +59,7 @@ Cambios respecto de la visión:
 
 | # | Decisión | Por qué importa |
 |---|---|---|
-| D1 | Qué no le gusta de las guías de medallones v0.2 | Hoy se usan tal cual, marcadas EN USO |
+| D1 | Qué no le gusta de las guías de medallones v0.2 | Hoy se usan tal cual, marcadas LISTO PARA PROBAR |
 | D2 | Meta de legumbres por semana para la hoja K2 | La hoja tiene el campo en blanco |
 | D3 | Si el bot educativo (T4) puede usar IA para responder desde la base aprobada | Hoy las reglas del bot lo prohíben |
 | D4 | Proporción por defecto del medallón: 2:1 (guía) o 1:1 (bot) | Fuente única; propuesta: 2:1 |
@@ -68,3 +68,9 @@ Cambios respecto de la visión:
 ## 6. Evidencia por programa
 
 Sigue la tabla de la sección 3 de `PLAN_DEL_PROYECTO_v0.1.md`, todavía sin verificar (†). Para las merencenas: `kit_consulta_v0/K3_merencenas_ficha_profesional_v0.1.md`.
+
+## 7. Próximo paso acordado (2026-10-30): piloto corto antes de ampliar
+
+Recorrido: legumbres (K2) → medallones (K1) → una pregunta de seguimiento a la semana ("¿cocinaste la legumbre? ¿hiciste medallones? ¿qué te costó?").
+Qué se observa: si la persona entiende, cocina y repite, y cuánto tiempo de consulta ahorra. Con eso, la pieza pasa a `PROBADO`.
+Pendiente de diseño: versión para celular (bloques con letra mayor) de las hojas más cargadas (K2, K6), aparte de la versión impresa.

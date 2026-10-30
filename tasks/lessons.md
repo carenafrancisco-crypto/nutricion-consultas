@@ -28,3 +28,7 @@
 ## 2026-10-30 - "Dejando por obvio lo etico"
 - Error: entendi "dejar afuera lo etico". Francisco queria que lo etico aparezca como sutileza, sin incomodar a quien no es vegetariano.
 - Regla: los temas sensibles (etica animal, veganismo) van como un guino breve y amable, no se omiten ni se sermonea. Ante una instruccion ambigua de este tipo, preguntar.
+
+## 2026-10-30 - Revision del segundo consultor
+- La regla "nunca borrar" me volvio complaciente (mani, frutas, "es lo mejor" del fermentado). Regla nueva: se habla con Francisco antes de tocar; objecion con evidencia; el decide.
+- Antes de cerrar una hoja: chequear coherencia entre hojas (pan en semaforo vs. merencena), cuentas (pasos/minutos) y calendarios contra las reglas de conservacion.

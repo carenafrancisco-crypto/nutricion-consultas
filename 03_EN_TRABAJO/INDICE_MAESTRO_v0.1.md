@@ -8,14 +8,15 @@
 ## Cómo se lee
 
 **Estado**
-- `EN USO` - borrador que Francisco ya puede usar en consulta. Se mejora usándolo. No es material clínicamente aprobado.
+- `LISTO PARA PROBAR` - borrador que Francisco ya puede usar en consulta. No es material clínicamente aprobado.
+- `PROBADO` - usado con pacientes reales; se registró si entienden, cocinan y repiten.
 - `BORRADOR` - en elaboración.
 - `PENDIENTE` - definido, sin empezar.
 - `IDEA` - mencionado en la visión, sin definir.
 - `APROBADO` - revisado y aprobado por Francisco (pasa a `04_PARA_PACIENTES/`).
 
 **Respaldo** (se pueden combinar: por ejemplo `IF + E2`)
-- `IF` - indicación clínica de Francisco. Se conserva siempre. Nunca se borra por falta de evidencia.
+- `IF` - indicación clínica de Francisco. El original se conserva siempre; si hay evidencia en contra, se marca y se habla con él antes de cambiar lo que llega al paciente.
 - `E1` - eficacia clínica demostrada (ensayos o metaanálisis con resultados clínicos).
 - `E2` - respaldo parcial: ensayos chicos o cortos, desenlaces intermedios, estudios observacionales consistentes o recomendación de guía con evidencia limitada.
 - `E3` - hipótesis fisiológica o mecanística.
@@ -33,16 +34,16 @@ Una indicación `IF` con respaldo `E2` o `E3` se usa de forma individualizada. N
 
 | ID | Pieza | Familia | Nivel | Programa | Estado | Respaldo | Archivo |
 |---|---|---|---|---|---|---|---|
-| K1 | Medallones vegetales | B. Preparar | N1 + N2 | General | EN USO | E2 (calidad proteica) | `kit_consulta_v0/K1_medallones_v0.3.html` (+ PDF y PNG, hoja en estilo cuaderno); guías Word v0.3 práctica y ampliada (con la hoja K1 adentro); `infografia_medallones/` (versión vieja, en desuso) |
+| K1 | Medallones vegetales | B. Preparar | N1 + N2 | General | LISTO PARA PROBAR | E2 (calidad proteica) | `kit_consulta_v0/K1_medallones_v0.3.html` (+ PDF y PNG, hoja en estilo cuaderno); guías Word v0.3 práctica y ampliada (con la hoja K1 adentro); `infografia_medallones/` (versión vieja, en desuso) |
 | K1-F | Fórmula del medallón (fuente única) | B. Preparar | Conocimiento | General | BORRADOR | E2 | `conocimiento/FORMULA_MEDALLON_v0.1.md` |
-| K2 | Legumbres: una legumbre y un cereal por semana, cocinar una vez, comer toda la semana | A. Conocer + C. Organizar | N1 | General | EN USO | IF + E2 (remojo fermentado 24-36 h: menos antinutrientes y gases); resto ? | `kit_consulta_v0/K2_legumbres_v0.3.html` (+ PDF y PNG) |
-| K3 | Merencenas: la última comida, más temprano | Merencenas | N1 (paciente) + N3 (profesional) | Digestivo; diabetes/prediabetes; obesidad | EN USO | IF + E2 (dispepsia, glucemia) + E3 (desayuno tardío) | `kit_consulta_v0/K3_merencenas_v0.2.html` (+ PDF y PNG), `kit_consulta_v0/K3_merencenas_ficha_profesional_v0.1.md` |
-| K4 | Legumbre + cereal: mejor juntas (combinar el mismo día; historia de las semillas, los antinutrientes, el fuego y las bacterias) | A. Conocer | N1 | General | EN USO | IF + E2 (complementación de aminoácidos); relato evolutivo = IF | `kit_consulta_v0/K4_mejor_juntas_v0.1.html` (+ PDF y PNG) |
-| K5 | Desayunos y meriendas (fórmula + bebidas + cómo endulzar + toppings + ideas) | B. Preparar + C. Organizar | N1 (2 carillas) | General | EN USO | IF (folleto original de Francisco) + decisiones D3-D6 | `kit_consulta_v0/K5_desayunos_v0.1.html` (+ PDF y PNG por carilla) |
-| K6 | Consejos para una alimentación adecuada (el plato) | A + C | N1 | General | EN USO | IF (cuadro original de Francisco, adaptado de Harvard) + D1-D6 | `kit_consulta_v0/K6_plato_saludable_v0.1.html` (+ PDF y PNG) |
-| K7 | Despensa para variar: proteínas listas (tofu, tempeh, seitán, texturizados), pastas de legumbre e integrales, granos para hervir | B. Preparar | N1 (2 carillas) | General | EN USO | IF + E2 | `kit_consulta_v0/K7_despensa_para_variar_v0.1.html` (+ PDF y PNG por carilla) |
-| K8 | Semáforo del azúcar (tabla de índice glucémico corregida) | A. Conocer | N1 | Diabetes/prediabetes; obesidad; general | EN USO | IF (tabla original) + E2 (valores de IG de las tablas internacionales †, a verificar) | `kit_consulta_v0/K8_semaforo_azucar_v0.1.html` (+ PDF y PNG) |
-| K9 | Huevo de campo (vs. criadero): perfil de grasas y vitaminas, cómo elegirlo, señales de calidad | A. Conocer | N1 | General | EN USO | IF + E2 (Karsten 2010, estudio chico) | `kit_consulta_v0/K9_huevo_de_campo_v0.1.html` (+ PDF y PNG) |
+| K2 | Legumbres: una legumbre y un cereal por semana, cocinar una vez, comer toda la semana | A. Conocer + C. Organizar | N1 | General | LISTO PARA PROBAR | IF + E2 (remojo fermentado 24-36 h: menos antinutrientes y gases); resto ? | `kit_consulta_v0/K2_legumbres_v0.3.html` (+ PDF y PNG) |
+| K3 | Merencenas: la última comida, más temprano | Merencenas | N1 (paciente) + N3 (profesional) | Digestivo; diabetes/prediabetes; obesidad | LISTO PARA PROBAR | IF + E2 (dispepsia, glucemia) + E3 (desayuno tardío) | `kit_consulta_v0/K3_merencenas_v0.2.html` (+ PDF y PNG), `kit_consulta_v0/K3_merencenas_ficha_profesional_v0.1.md` |
+| K4 | Legumbre + cereal: mejor juntas (combinar el mismo día; historia de las semillas, los antinutrientes, el fuego y las bacterias) | A. Conocer | N1 | General | LISTO PARA PROBAR | IF + E2 (complementación de aminoácidos); relato evolutivo = IF | `kit_consulta_v0/K4_mejor_juntas_v0.1.html` (+ PDF y PNG) |
+| K5 | Desayunos y meriendas (fórmula + bebidas + cómo endulzar + toppings + ideas) | B. Preparar + C. Organizar | N1 (2 carillas) | General | LISTO PARA PROBAR | IF (folleto original de Francisco) + decisiones D3-D6 | `kit_consulta_v0/K5_desayunos_v0.1.html` (+ PDF y PNG por carilla) |
+| K6 | Consejos para una alimentación adecuada (el plato) | A + C | N1 | General | LISTO PARA PROBAR | IF (cuadro original de Francisco, adaptado de Harvard) + D1-D6 | `kit_consulta_v0/K6_plato_saludable_v0.1.html` (+ PDF y PNG) |
+| K7 | Despensa para variar: proteínas listas (tofu, tempeh, seitán, texturizados), pastas de legumbre e integrales, granos para hervir | B. Preparar | N1 (2 carillas) | General | LISTO PARA PROBAR | IF + E2 | `kit_consulta_v0/K7_despensa_para_variar_v0.1.html` (+ PDF y PNG por carilla) |
+| K8 | Semáforo del azúcar (tabla de índice glucémico corregida) | A. Conocer | N1 | Diabetes/prediabetes; obesidad; general | LISTO PARA PROBAR | IF (tabla original) + E2 (valores de IG de las tablas internacionales †, a verificar) | `kit_consulta_v0/K8_semaforo_azucar_v0.1.html` (+ PDF y PNG) |
+| K9 | Huevo de campo (vs. criadero): perfil de grasas y vitaminas, cómo elegirlo, señales de calidad | A. Conocer | N1 | General | LISTO PARA PROBAR | IF + E2 (Karsten 2010, estudio chico) | `kit_consulta_v0/K9_huevo_de_campo_v0.1.html` (+ PDF y PNG) |
 
 ## 2. A. Conocer los alimentos
 
@@ -62,7 +63,7 @@ Una indicación `IF` con respaldo `E2` o `E3` se usa de forma individualizada. N
 
 | ID | Pieza | Estado | Plantilla del bot que la representa | Prioridad |
 |---|---|---|---|---|
-| B01 | Medallones, hamburguesas y croquetas | EN USO (K1) | RG009 (sin slots cargados) | 1 |
+| B01 | Medallones, hamburguesas y croquetas | LISTO PARA PROBAR (K1) | RG009 (sin slots cargados) | 1 |
 | B02 | Hummus, patés y cremas de legumbres | PENDIENTE | - | 1 |
 | B03 | Yogures completos | PENDIENTE | - | 1 |
 | B04 | Ensaladas completas | PENDIENTE | - | 1 |
@@ -78,13 +79,13 @@ Una indicación `IF` con respaldo `E2` o `E3` se usa de forma individualizada. N
 | B14 | Verduras rellenas y al horno | IDEA | "masa horneada rellena" (nueva) | 3 |
 | B15 | Fermentos caseros | IDEA | fuera de alcance en el bot | 3 |
 | B16 | Caldos, salsas, aderezos, condimentos | IDEA | - | 3 |
-| B17 | Despensa para variar: tofu, tempeh, seitán, texturizados, pastas de legumbre e integrales, granos para hervir | EN USO (K7) | - | 1 |
+| B17 | Despensa para variar: tofu, tempeh, seitán, texturizados, pastas de legumbre e integrales, granos para hervir | LISTO PARA PROBAR (K7) | - | 1 |
 
 ## 4. C. Organizar comidas y hábitos
 
 | ID | Pieza | Estado | Herramienta del bot que ya existe | Prioridad |
 |---|---|---|---|---|
-| C01 | Cocinar una vez, comer varios días | EN USO (dentro de K2) | Cocina Semanal: plan semanal | 1 |
+| C01 | Cocinar una vez, comer varios días | LISTO PARA PROBAR (dentro de K2) | Cocina Semanal: plan semanal | 1 |
 | C02 | Lista de compras | PENDIENTE | Cocina Semanal: lista de compras cocido a crudo + catálogo Buena Vida con precios | 2 |
 | C03 | Armar desayunos y meriendas | IDEA | - | 2 |
 | C04 | Armar almuerzos y cenas completos | IDEA | regla "plato completo" de Cocina Semanal | 2 |

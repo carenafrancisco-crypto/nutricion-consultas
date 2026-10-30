@@ -30,7 +30,7 @@ Matices (a discutir):
 
 ## D5 - Maní (IF; respaldo en contra a revisar)
 
-Incluido. Asterisco para dislipemias: el maní se consume tostado y su grasa se oxida con el calor; en colesterol alto, preferir frutos secos crudos.
+Incluido, sin asterisco en las hojas (decisión de Francisco 2026-10-30, ante la evidencia). Indicación original conservada: en colesterol alto preferir frutos secos crudos porque la grasa del maní tostado se oxida; queda a criterio individual en consulta.
 
 Matiz: los ensayos que conozco con maní tostado muestran efecto neutro o favorable sobre los lípidos (†, a verificar). Se mantiene como indicación individual para dislipemias, no como exclusión general.
 
@@ -76,6 +76,14 @@ Maca, spirulina, moringa, matcha, arropes regionales, cacao amargo, coco, frutos
 - No se usa en las hojas: "hormonas" en aves (mito; no se usan en la región).
 - Hipótesis de Francisco, sin evidencia suficiente para la hoja (E3): que los residuos de los granos del balanceado se concentran en la grasa del huevo. El glifosato es hidrosoluble y aparece en niveles muy bajos en huevos; los plaguicidas liposolubles persistentes están prohibidos. Lo que sí se concentra en la yema (dioxinas, PCB) aparece más en huevos de campo, por el suelo (Italia 2022, Taiwán 2010): de ahí el consejo de comprar lejos de rutas, basurales e industrias.
 - Color de yema: depende sobre todo del maíz o pigmentos del alimento; no indica sistema de cría. Yema firme, clara espesa y cáscara dura: frescura y buena alimentación.
+
+## Fruta: "no mezclar en un mismo día" (IF, sin respaldo encontrado)
+
+Sale de las hojas generales (decisión de Francisco 2026-10-30). Queda para el programa digestivo (dispepsia), como indicación individual.
+
+## Remojo fermentado: presentación (IF + E2/E3)
+
+Se presenta como técnica que recomienda Francisco, no como la mejor demostrada. Medidas: por taza de legumbre seca, 3 tazas de agua + 2 cucharadas de kéfir o suero de yogur; tapado, 18-24 °C, 24-36 h; con más calor, 12-18 h.
 
 ## Movimiento (IF + E2)
 

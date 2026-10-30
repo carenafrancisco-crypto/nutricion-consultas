@@ -15,8 +15,8 @@ Vigente: `00_CONTEXTO/VISION_DEL_PROYECTO_v1.md` (2026-10-30). En corto:
 - Inventario: `03_EN_TRABAJO/INDICE_MAESTRO_v0.1.md`.
 
 Reglas firmes de Francisco:
-- **Material usable ya.** Cada etapa deja algo que se use en consulta (estado `EN USO`). No esperar a que esté perfecto.
-- **No borrar indicaciones suyas por falta de evidencia.** Se conservan y se clasifican (`IF` indicación de Francisco, `E1` eficacia demostrada, `E2` respaldo parcial, `E3` hipótesis). Una `IF` sin `E1` se usa de forma individualizada, no como regla para toda la población.
+- **Material usable ya.** Cada etapa deja algo listo para probar en consulta. No esperar a que esté perfecto. Estados: `LISTO PARA PROBAR` → `PROBADO` (usado con pacientes reales) → `APROBADO`.
+- **Indicaciones de Francisco: se habla con él antes de tocar.** El original se conserva siempre; si hay evidencia en contra, se marca la objeción con su respaldo y se le plantea. Qué llega al paciente lo decide él, explícitamente. Clasificación: `IF` indicación de Francisco, `E1` eficacia demostrada, `E2` respaldo parcial, `E3` hipótesis.
 - **Fuente única**: cada fórmula o regla en un solo archivo de `03_EN_TRABAJO/conocimiento/`.
 - El bot vive en otro repo (`botnutriciondrcarenaleon`). No duplicar lo que ya tiene. Nunca versionar acá sus credenciales ni sus bases de pacientes.
 
@@ -24,7 +24,7 @@ Los materiales de `01_ORIGINALES` son insumo perfectible, no producto.
 
 El protocolo Lp(a) (`LPA LPMQTRMP.docx`) se hizo para UNA paciente. No es universal ni se entregó en masa. Es insumo para el programa de dislipemias.
 
-Cada propuesta tiene que decir a qué programa pertenece y qué evidencia la respalda. Plan: `03_EN_TRABAJO/PLAN_DEL_PROYECTO_v0.1.md`.
+Cada propuesta tiene que decir a qué programa pertenece y qué evidencia la respalda. Plan: `03_EN_TRABAJO/PLAN_DEL_PROYECTO_v0.2.md`.
 
 ## Trabajo en varias compus (GitHub)
 Repo privado: `carenafrancisco-crypto/nutricion-consultas`.

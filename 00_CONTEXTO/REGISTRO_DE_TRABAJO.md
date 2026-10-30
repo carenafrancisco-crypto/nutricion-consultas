@@ -158,3 +158,11 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 - K8 `Semáforo del azúcar`: tabla de índice glucémico de Francisco corregida (no retirada), estilo cuaderno, 1 hoja. Ver D8 en decisiones.
 - Frecuencias: legumbres a diario; carne 3 porciones por semana en total (roja, blanca, pescado; +1 de pescado opcional). Respaldo en decisiones (WCRF, EAT-Lancet, AHA). Aplicado en K6 y K8.
 - K9 `Huevo de campo` (hoja propia; no entraba en desayunos): comparación pastura vs. jaula, por qué cambia, cómo elegirlo, señales de calidad, conservación. Filtrado: sin hormonas (mito); hipótesis de residuos del balanceado guardada en decisiones como E3.
+
+## 2026-10-30 (parte 9) - Revisión del segundo consultor
+- Regla cambiada: indicaciones de Francisco = se habla con él antes de tocar (original conservado, objeción marcada, él decide).
+- Estados nuevos: LISTO PARA PROBAR / PROBADO / APROBADO (antes "EN USO").
+- Decisiones de Francisco: maní sin asterisco; "no mezclar frutas" sale de las hojas generales (queda para dispepsia); remojo fermentado como "técnica que recomiendo" con medidas (3 tazas de agua + 2 cdas de kéfir o suero por taza, 18-24 °C, 24-36 h; con calor, 12-18 h).
+- Correcciones: K2 calendario (domingo: 2 frascos a heladera, resto a freezer); K6 pasos ("lo de siempre más 40 min"); K3 pan de grano entero y galletas de semillas o legumbre; K8 "la cantidad también cuenta" y pan de grano entero en amarillo.
+- Plan: piloto corto legumbres → medallones → pregunta de seguimiento; versión celular de K2 y K6 pendiente.
+- Pendiente de hablar con Francisco: rótulo "sin restricción" del verde del semáforo.
