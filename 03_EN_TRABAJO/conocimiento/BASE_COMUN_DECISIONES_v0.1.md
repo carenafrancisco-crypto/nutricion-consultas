@@ -67,7 +67,8 @@ Maca, spirulina, moringa, matcha, arropes regionales, cacao amargo, coco, frutos
 
 - **Legumbres: a diario, idealmente** (Francisco). Respaldo: EAT-Lancet 2019 propone 75 g secas por día (2025: rango hasta 150 g, dato de prensa, verificar); metaanálisis 2023 (Zargarzadeh): cada 50 g/día de legumbres, 6% menos mortalidad total (cohortes; para mortalidad cardiovascular los resultados son inconsistentes). Las GAPA argentinas mencionan consumo diario (fuente secundaria, verificar en el documento oficial).
 - **Carne roja: hasta 3 porciones por semana** (Francisco). Respaldo: WCRF, unos 350-500 g cocidos por semana (unos 3 porciones), por riesgo de cáncer colorrectal. EAT-Lancet es más estricto (unos 15 g/día, unos 100 g por semana). Procesados (fiambres, embutidos): poco o nada (IARC grupo 1).
-- El límite de WCRF es para carne roja; pollo y pescado no entran en esa cuenta.
+- Esquema de Francisco (IF, más estricto que las guías): **3 porciones de carne por semana en total: una roja, una blanca y una de pescado, con opción de sumar otra de pescado.** Coincide con EAT-Lancet (unos 100 g de carne roja por semana) y con la AHA (2 porciones de pescado por semana †).
+- La mayoría de las guías limitan la carne roja y los procesados, no todas las carnes juntas (WCRF: hasta unos 3 porciones de carne roja por semana).
 
 ## Movimiento (IF + E2)
 

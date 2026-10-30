@@ -156,3 +156,4 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 - Francisco: sus ideas al pasar son para filtrar (sumar, mejorar o guardar), no para meter a la fuerza. Cajón creado en `tasks/ideas.md`.
 - K7: por qué mezclar harinas (más proteína completa, fibra y minerales que harina blanca o almidón); agroquímicos sin miedo ("no es motivo para dejar las legumbres: el trigo y la harina común se cultivan igual").
 - K8 `Semáforo del azúcar`: tabla de índice glucémico de Francisco corregida (no retirada), estilo cuaderno, 1 hoja. Ver D8 en decisiones.
+- Frecuencias: legumbres a diario; carne 3 porciones por semana en total (roja, blanca, pescado; +1 de pescado opcional). Respaldo en decisiones (WCRF, EAT-Lancet, AHA). Aplicado en K6 y K8.
