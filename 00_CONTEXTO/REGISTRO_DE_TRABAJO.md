@@ -65,3 +65,17 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 - Aprobación de Francisco → pasar a `04_PARA_PACIENTES/`.
 - **Estado (2026-10-29):** Francisco todavía NO aprobó las guías v0.2 ni la infografía ("no me gustan aún"). Las sigue trabajando en otra compu. Preguntarle qué no le gusta antes de seguir.
 - Para regenerar los Word desde los originales: `python 03_EN_TRABAJO/herramientas/editar_guias.py 01_ORIGINALES 03_EN_TRABAJO 03_EN_TRABAJO/infografia_medallones/infografia.png` (requiere `pip install python-docx`). La infografía se edita en el HTML y se exporta a PNG/PDF con Edge o Chrome headless.
+
+## 2026-10-30 — Documento de visión v1
+
+### Entró
+- Francisco aportó el documento "Alimentación en consulta: hacia un programa de educación, acompañamiento y autogestión de salud" (14 secciones).
+
+### Producido
+- `00_CONTEXTO/VISION_DEL_PROYECTO_v1.md`: texto tal cual lo pasó Francisco. Pasa a ser el encuadre vigente del proyecto.
+- Cambios de encuadre respecto del plan v0.1: meta comercial explícita; preparaciones universales como eje; biblioteca en 3 familias (conocer, preparar, organizar); merencenas; 3 niveles de profundidad; bots con base de conocimiento propia; seguimiento y adherencia; orden de trabajo en 7 etapas.
+
+### Pendientes
+- Etapa 1: índice maestro (propósito, destinatario, formato, relaciones, prioridad y estado de cada pieza). Espera aprobación del plan.
+- Actualizar `PLAN_DEL_PROYECTO_v0.1.md` → v0.2 y la sección "Visión" del `CLAUDE.md` del proyecto.
+- Revisar la carpeta `drcarenaleonbotnutri/` (sin versionar) solo si Francisco lo autoriza (sección 7).
