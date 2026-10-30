@@ -20,9 +20,9 @@
 
 | Paso | Qué | Cantidad de partida (A PROBAR) |
 |---|---|---|
-| Legumbre | lentejas (cualquier color), arvejas partidas o garbanzos | 1 taza seca (unos 200 g) |
+| Legumbre | lentejas (comunes o rojas), arvejas partidas o garbanzos. Porotos y soja no (B2, B3) | 1 taza seca (unos 200 g) |
 | Remojo | fermentado 24-36 h; tirar el agua y enjuagar | ver base común |
-| Procesar | con agua nueva, hasta pasta lisa y espesa (como una crema espesa) | 1 a 1 ½ taza de agua por taza seca |
+| Licuar | en licuadora, con agua fresca, hasta textura de licuado espeso, no chirle (receta de casa) | más o menos el doble del volumen de la legumbre remojada; empezar con menos y sumar |
 | Condimentar | sal, ajo, cebolla en polvo, pimentón, comino, cúrcuma, hierbas | a gusto |
 | Cocinar | olla de fondo grueso, fuego medio, revolviendo siempre. Primero se espesa, después se pone gomosa y brillante y se despega de las paredes | 15-20 min desde que hierve † |
 | Moldear | molde forrado, alisar arriba | |
@@ -40,8 +40,8 @@ Lo que la vuelve atractiva: sin gluten (sirve a celíacos si los condimentos no 
 | # | Punto | Objeción y respaldo | Propuesta |
 |---|---|---|---|
 | B1 | Nombre | "Seitán" es por definición gluten de trigo; esta preparación no tiene gluten. Llamarla seitán confunde, sobre todo a celíacos. | DECIDIDO: "Terrón de legumbres (tofu birmano)". |
-| B2 | "Cualquier legumbre" | Los porotos crudos (sobre todo los rojos) tienen fitohemaglutinina, que se destruye con hervor sostenido: la FDA pide al menos 10 min a 100 °C y recomienda 30 min para asegurar (K-State, citando el Bad Bug Book de la FDA). Una pasta espesa revuelta en sartén puede no llegar pareja a 100 °C ese tiempo. Con lentejas y garbanzos el riesgo es mucho menor. | En la hoja: lentejas, arvejas partidas y garbanzos. Porotos solo si Francisco lo aprueba, con cocción larga a hervor. |
-| B3 | Soja | Cuaja por el almidón; la soja casi no tiene almidón y no cuajaría así (E3, a probar). | Dejarla fuera. |
-| B4 | Proporciones y tiempos | "Un poco de agua" no se puede enseñar. | Confirmar con la receta de la casa: cuánta agua por taza y cuánto tiempo al fuego. |
+| B2 | "Cualquier legumbre" (DECIDIDO: porotos fuera) | Los porotos crudos (sobre todo los rojos) tienen fitohemaglutinina, que se destruye con hervor sostenido: la FDA pide al menos 10 min a 100 °C y recomienda 30 min para asegurar (K-State, citando el Bad Bug Book de la FDA). Una pasta espesa revuelta en sartén puede no llegar pareja a 100 °C ese tiempo. Con lentejas y garbanzos el riesgo es mucho menor. | En la hoja: lentejas, arvejas partidas y garbanzos. Porotos solo si Francisco lo aprueba, con cocción larga a hervor. |
+| B3 | Soja (DECIDIDO: fuera) | Cuaja por el almidón; la soja casi no tiene almidón y no cuajaría así (E3, a probar). | Dejarla fuera. |
+| B4 | Proporciones y tiempos | "Un poco de agua" no se puede enseñar. | Agua: DECIDIDO (doble del volumen, textura de licuado espeso). Tiempo al fuego: falta; la hoja usa la señal visual (gomosa, brillante, se despega). |
 
-Después de B2-B4: hoja del kit (K10, estilo cuaderno) + versión celular.
+Hoja: `kit_consulta_v0/K10_terron_legumbres_v0.1` (LISTO PARA PROBAR). Heladera hasta 3 días, igual que K2.

@@ -173,3 +173,4 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 - Repo en GitHub figura PÚBLICO (CLAUDE.md dice privado). Historial revisado: sin .env, sqlite ni carpeta del bot. Consultar a Francisco.
 - Nombre de la receta: "Terrón de legumbres (tofu birmano)" (Francisco). Archivo: `FORMULA_TERRON_LEGUMBRES_v0.1.md`.
 - Foco: terminar nutrición y alimentación antes de abrir movimiento (Francisco).
+- K10 `Terrón de legumbres (tofu birmano)`: hoja 1 carilla (HTML + PDF + PNG). Porotos y soja fuera; agua: doble del volumen, licuado espeso no chirle (receta de casa). Falta: tiempo al fuego y versión celular.

@@ -5,7 +5,7 @@ Se trabajan de a una, en este orden (Francisco puede reordenar). Al terminar una
 | # | Idea | Dónde va | Estado |
 |---|---|---|---|
 | 1 | Plato saludable rehecho con lo mejor del cuadro original | K6 | HECHO 2026-10-30 (falta su revisión) |
-| 3 | Terrón de legumbres, tofu birmano (receta de su señora): legumbre fermentada, procesada, cocida revolviendo y cuajada en molde | `conocimiento/FORMULA_TERRON_LEGUMBRES_v0.1.md` -> K10 | FÓRMULA HECHA 2026-10-30; hoja espera legumbres y proporciones |
+| 3 | Terrón de legumbres, tofu birmano (receta de su señora): legumbre fermentada, procesada, cocida revolviendo y cuajada en molde | `conocimiento/FORMULA_TERRON_LEGUMBRES_v0.1.md` -> K10 | HECHO 2026-10-30 (falta su revisión y el tiempo al fuego) |
 | 2 | Despensa para variar: proteínas listas (con seitán), pastas de legumbre e integrales, granos para hervir; soja orgánica y fitoestrógenos | K7 | HECHO 2026-10-30 (falta su revisión) |
 
 ## Cajón (ideas sueltas, sin decidir dónde van)

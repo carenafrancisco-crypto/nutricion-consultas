@@ -32,3 +32,7 @@
 ## 2026-10-30 - Revision del segundo consultor
 - La regla "nunca borrar" me volvio complaciente (mani, frutas, "es lo mejor" del fermentado). Regla nueva: se habla con Francisco antes de tocar; objecion con evidencia; el decide.
 - Antes de cerrar una hoja: chequear coherencia entre hojas (pan en semaforo vs. merencena), cuentas (pasos/minutos) y calendarios contra las reglas de conservacion.
+
+## 2026-10-30 - Pregunta no es orden
+- Error: Francisco pregunto "que tiene que ver el movimiento con la comida" en la version celular del plato y saque la imagen sin discutir. El queria que explique y defienda la idea.
+- Regla: una pregunta de Francisco se contesta con mi postura y sus razones; no se cambia nada hasta que el decida. Quiere confrontacion argumentada, no obediencia.

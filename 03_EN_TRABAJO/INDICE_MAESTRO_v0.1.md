@@ -44,7 +44,7 @@ Una indicación `IF` con respaldo `E2` o `E3` se usa de forma individualizada. N
 | K7 | Despensa para variar: proteínas listas (tofu, tempeh, seitán, texturizados), pastas de legumbre e integrales, granos para hervir | B. Preparar | N1 (2 carillas) | General | LISTO PARA PROBAR | IF + E2 | `kit_consulta_v0/K7_despensa_para_variar_v0.1.html` (+ PDF y PNG por carilla) |
 | K8 | Semáforo del azúcar (tabla de índice glucémico corregida) | A. Conocer | N1 | Diabetes/prediabetes; obesidad; general | LISTO PARA PROBAR | IF (tabla original) + E2 (valores de IG de las tablas internacionales †, a verificar) | `kit_consulta_v0/K8_semaforo_azucar_v0.1.html` (+ PDF y PNG) |
 | K9 | Huevo de campo (vs. criadero): perfil de grasas y vitaminas, cómo elegirlo, señales de calidad | A. Conocer | N1 | General | LISTO PARA PROBAR | IF + E2 (Karsten 2010, estudio chico) | `kit_consulta_v0/K9_huevo_de_campo_v0.1.html` (+ PDF y PNG) |
-| K10 | Terrón de legumbres, tofu birmano (receta de la casa de Francisco): pasta de legumbre fermentada, cocida y cuajada en molde; se corta en bifes, tiritas, hamburguesas | B. Preparar | N1 | General | EN DISEÑO (falta decidir legumbres y proporciones) | IF; técnica tipo tofu birmano | `conocimiento/FORMULA_TERRON_LEGUMBRES_v0.1.md` |
+| K10 | Terrón de legumbres, tofu birmano (receta de la casa de Francisco): pasta de legumbre fermentada, cocida y cuajada en molde; se corta en bifes, tiritas, hamburguesas | B. Preparar | N1 | General | LISTO PARA PROBAR | IF; técnica tipo tofu birmano | `conocimiento/FORMULA_TERRON_LEGUMBRES_v0.1.md`; hoja `kit_consulta_v0/K10_terron_legumbres_v0.1.html` (+ PDF y PNG) |
 
 ## 2. A. Conocer los alimentos
 
