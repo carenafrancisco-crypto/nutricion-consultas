@@ -150,3 +150,4 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 - Actividad física del cuadro original ("2 veces por semana, 30 min") queda como indicación de Francisco; la OMS recomienda 150 min/semana + fuerza 2 días (a decidir).
 - K6: actividad física = "9000 pasos (unos 40 min) + mínimo 150 min por semana" (Francisco).
 - K7 `Legumbres listas para usar` (familia "Legumbres y granos", tono universal, no vegano): tofu, tempeh, texturizados de soja y otras legumbres, fideos y harinas de legumbre. Seitán fuera (no es legumbre).
+- K7 ampliada a `Despensa para variar` (2 carillas): proteínas listas con seitán, pastas de legumbre e integrales, harinas, granos para hervir (agua y tiempos), soja orgánica, fitoestrógenos (menopausia, próstata). Francisco: no ser rígido, abrir las secciones.

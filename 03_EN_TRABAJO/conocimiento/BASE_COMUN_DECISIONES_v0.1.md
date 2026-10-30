@@ -50,6 +50,12 @@ Maca, spirulina, moringa, matcha, arropes regionales, cacao amargo, coco, frutos
 - No reutilizar el aceite para volver a freír.
 - Dislipemias y Lp(a): evitar manteca, ghee y coco (protocolo Lp(a)).
 
+## Soja y legumbres orgánicas; fitoestrógenos (IF + E2)
+
+- Soja, mejor orgánica (la convencional está muy fumigada). Legumbres en general: orgánicas si se consiguen.
+- Fitoestrógenos de soja y legumbres: después de la menopausia pueden aliviar sofocos (metaanálisis de isoflavonas, Taku 2012 †); en hombres se asocian a menor riesgo de cáncer de próstata (metaanálisis observacionales, Applegate 2018 †). Tip, no tratamiento.
+- Aclaración: en la hiperplasia prostática se usan alfabloqueantes o inhibidores de la 5-alfa-reductasa, no inhibidores de la aromatasa.
+
 ## Movimiento (IF + E2)
 
 Consejo base, en una oración: 9000 pasos por día (unos 40 minutos de caminar, bailar, hacer la huerta o cualquier movimiento, además de lo cotidiano) y, en la semana, al menos 150 minutos de actividad moderada. El tema se desarrolla aparte en el módulo de movimiento. Respaldo, de memoria (†): metaanálisis de pasos y mortalidad (Paluch 2022, Lancet Public Health): el beneficio se aplana entre 6000-8000 pasos en mayores de 60 y 8000-10000 en menores; OMS 2020: 150-300 min/semana moderada + fuerza 2 días.

@@ -5,4 +5,4 @@ Se trabajan de a una, en este orden (Francisco puede reordenar). Al terminar una
 | # | Idea | Dónde va | Estado |
 |---|---|---|---|
 | 1 | Plato saludable rehecho con lo mejor del cuadro original | K6 | HECHO 2026-10-30 (falta su revisión) |
-| 2 | Legumbres listas para usar: tofu, tempeh, texturizados, fideos y harinas de legumbre (sin seitán: no es legumbre) | K7 | HECHO 2026-10-30 (falta su revisión) |
+| 2 | Despensa para variar: proteínas listas (con seitán), pastas de legumbre e integrales, granos para hervir; soja orgánica y fitoestrógenos | K7 | HECHO 2026-10-30 (falta su revisión) |

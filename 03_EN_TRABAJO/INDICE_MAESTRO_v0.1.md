@@ -40,7 +40,7 @@ Una indicación `IF` con respaldo `E2` o `E3` se usa de forma individualizada. N
 | K4 | Legumbre + cereal: mejor juntas (combinar el mismo día; historia de las semillas, los antinutrientes, el fuego y las bacterias) | A. Conocer | N1 | General | EN USO | IF + E2 (complementación de aminoácidos); relato evolutivo = IF | `kit_consulta_v0/K4_mejor_juntas_v0.1.html` (+ PDF y PNG) |
 | K5 | Desayunos y meriendas (fórmula + bebidas + cómo endulzar + toppings + ideas) | B. Preparar + C. Organizar | N1 (2 carillas) | General | EN USO | IF (folleto original de Francisco) + decisiones D3-D6 | `kit_consulta_v0/K5_desayunos_v0.1.html` (+ PDF y PNG por carilla) |
 | K6 | Consejos para una alimentación adecuada (el plato) | A + C | N1 | General | EN USO | IF (cuadro original de Francisco, adaptado de Harvard) + D1-D6 | `kit_consulta_v0/K6_plato_saludable_v0.1.html` (+ PDF y PNG) |
-| K7 | Legumbres listas para usar (familia "Legumbres y granos") | B. Preparar | N1 | General | EN USO | IF + E2 | `kit_consulta_v0/K7_legumbres_listas_v0.1.html` (+ PDF y PNG) |
+| K7 | Despensa para variar: proteínas listas (tofu, tempeh, seitán, texturizados), pastas de legumbre e integrales, granos para hervir | B. Preparar | N1 (2 carillas) | General | EN USO | IF + E2 | `kit_consulta_v0/K7_despensa_para_variar_v0.1.html` (+ PDF y PNG por carilla) |
 
 ## 2. A. Conocer los alimentos
 
@@ -76,7 +76,7 @@ Una indicación `IF` con respaldo `E2` o `E3` se usa de forma individualizada. N
 | B14 | Verduras rellenas y al horno | IDEA | "masa horneada rellena" (nueva) | 3 |
 | B15 | Fermentos caseros | IDEA | fuera de alcance en el bot | 3 |
 | B16 | Caldos, salsas, aderezos, condimentos | IDEA | - | 3 |
-| B17 | Legumbres listas para usar: tofu, tempeh, texturizados de soja y otras legumbres, fideos y harinas de legumbre | EN USO (K7) | - | 1 |
+| B17 | Despensa para variar: tofu, tempeh, seitán, texturizados, pastas de legumbre e integrales, granos para hervir | EN USO (K7) | - | 1 |
 
 ## 4. C. Organizar comidas y hábitos
 
