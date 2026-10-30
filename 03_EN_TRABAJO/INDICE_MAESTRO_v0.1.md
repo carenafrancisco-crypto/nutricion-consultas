@@ -31,7 +31,7 @@ Una indicación `IF` con respaldo `E2` o `E3` se usa de forma individualizada. N
 
 | ID | Pieza | Familia | Nivel | Programa | Estado | Respaldo | Archivo |
 |---|---|---|---|---|---|---|---|
-| K1 | Medallones vegetales | B. Preparar | N1 + N2 | General | EN USO | E2 (calidad proteica) | `kit_consulta_v0/K1_medallones_v0.3.html` (+ PDF y PNG, hoja en estilo cuaderno); guías Word v0.2 práctica y ampliada; `infografia_medallones/` (versión vieja, embebida en los Word) |
+| K1 | Medallones vegetales | B. Preparar | N1 + N2 | General | EN USO | E2 (calidad proteica) | `kit_consulta_v0/K1_medallones_v0.3.html` (+ PDF y PNG, hoja en estilo cuaderno); guías Word v0.3 práctica y ampliada (con la hoja K1 adentro); `infografia_medallones/` (versión vieja, en desuso) |
 | K1-F | Fórmula del medallón (fuente única) | B. Preparar | Conocimiento | General | BORRADOR | E2 | `conocimiento/FORMULA_MEDALLON_v0.1.md` |
 | K2 | Legumbres: una legumbre y un cereal por semana, cocinar una vez, comer toda la semana | A. Conocer + C. Organizar | N1 | General | EN USO | IF + E2 (remojo fermentado 24-36 h: menos antinutrientes y gases); resto ? | `kit_consulta_v0/K2_legumbres_v0.3.html` (+ PDF y PNG) |
 | K3 | Merencenas: la última comida, más temprano | Merencenas | N1 (paciente) + N3 (profesional) | Digestivo; diabetes/prediabetes; obesidad | EN USO | IF + E2 (dispepsia, glucemia) + E3 (desayuno tardío) | `kit_consulta_v0/K3_merencenas_v0.2.html` (+ PDF y PNG), `kit_consulta_v0/K3_merencenas_ficha_profesional_v0.1.md` |

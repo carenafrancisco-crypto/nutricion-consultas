@@ -123,3 +123,4 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 ## 2026-10-30 (parte 6) - Medallones en estilo cuaderno
 - `kit_consulta_v0/K1_medallones_v0.3` (HTML + PDF 1 hoja + PNG): misma fórmula, pasos, 8 combinaciones y 6 trucos que la infografía v0.2. La preparación de la legumbre ahora remite a la hoja de legumbres e incluye el remojo fermentado, que faltaba en la infografía vieja.
 - La infografía vieja (`infografia_medallones/`) sigue embebida en las guías Word v0.2. Pendiente: decidir si los Word pasan a usar la hoja nueva.
+- Guías Word pasadas a v0.3: mismo texto que v0.2; solo se cambió la imagen embebida (infografía vieja -> hoja K1 v0.3 en alta, `kit_consulta_v0/K1_medallones_v0.3_alta.png`). No se regeneraron con el script para no pisar ediciones manuales.
