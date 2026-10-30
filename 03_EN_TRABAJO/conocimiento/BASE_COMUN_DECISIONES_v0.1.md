@@ -63,6 +63,12 @@ Maca, spirulina, moringa, matcha, arropes regionales, cacao amargo, coco, frutos
 - Glifosato: es sistémico (queda dentro del grano) y se mantiene estable en el procesamiento; no hay estudios que muestren cuánto lo baja el remojo o el hervido en legumbres. La fermentación no tiene evidencia para glifosato. El foco es comprar orgánico.
 - El tema alcanza también al trigo y la harina convencional: principio general, no exclusivo de la soja.
 
+## Frecuencias: legumbres y carne (IF + E2)
+
+- **Legumbres: a diario, idealmente** (Francisco). Respaldo: EAT-Lancet 2019 propone 75 g secas por día (2025: rango hasta 150 g, dato de prensa, verificar); metaanálisis 2023 (Zargarzadeh): cada 50 g/día de legumbres, 6% menos mortalidad total (cohortes; para mortalidad cardiovascular los resultados son inconsistentes). Las GAPA argentinas mencionan consumo diario (fuente secundaria, verificar en el documento oficial).
+- **Carne roja: hasta 3 porciones por semana** (Francisco). Respaldo: WCRF, unos 350-500 g cocidos por semana (unos 3 porciones), por riesgo de cáncer colorrectal. EAT-Lancet es más estricto (unos 15 g/día, unos 100 g por semana). Procesados (fiambres, embutidos): poco o nada (IARC grupo 1).
+- El límite de WCRF es para carne roja; pollo y pescado no entran en esa cuenta.
+
 ## Movimiento (IF + E2)
 
 Consejo base, en una oración: 9000 pasos por día (unos 40 minutos de caminar, bailar, hacer la huerta o cualquier movimiento, además de lo cotidiano) y, en la semana, al menos 150 minutos de actividad moderada. El tema se desarrolla aparte en el módulo de movimiento. Respaldo, de memoria (†): metaanálisis de pasos y mortalidad (Paluch 2022, Lancet Public Health): el beneficio se aplana entre 6000-8000 pasos en mayores de 60 y 8000-10000 en menores; OMS 2020: 150-300 min/semana moderada + fuerza 2 días.
