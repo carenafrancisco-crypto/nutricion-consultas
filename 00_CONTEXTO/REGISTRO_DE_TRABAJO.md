@@ -79,3 +79,23 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 - Etapa 1: índice maestro (propósito, destinatario, formato, relaciones, prioridad y estado de cada pieza). Espera aprobación del plan.
 - Actualizar `PLAN_DEL_PROYECTO_v0.1.md` → v0.2 y la sección "Visión" del `CLAUDE.md` del proyecto.
 - Revisar la carpeta `drcarenaleonbotnutri/` (sin versionar) solo si Francisco lo autoriza (sección 7).
+
+## 2026-10-30 (parte 2) - Etapa 1: índice maestro + kit de consulta v0
+
+### Entró
+- Francisco: no borrar indicaciones suyas por falta de evidencia; las merencenas (cena temprana y desayuno tarde) son firmes para dispepsia e hiperinsulinemia. Cada etapa tiene que dejar material usable ya.
+- Respuesta de ChatGPT como segundo consultor, adoptada: separar indicación de Francisco, hipótesis fisiológica y eficacia demostrada; integrar con el bot; seguimiento desde el comienzo; piloto comercial temprano; proteger los datos del bot.
+- Francisco autorizó revisar el bot (`drcarenaleonbotnutri/botnutriciondrcarenaleon`, repo propio).
+
+### Producido
+- `.gitignore`: excluye `drcarenaleonbotnutri/` (tiene `.env` con tokens y `panel_local.sqlite` con pacientes reales).
+- `03_EN_TRABAJO/INDICE_MAESTRO_v0.1.md`: piezas con estado, respaldo (IF/E1/E2/E3), equivalente en el bot y seguimiento.
+- `03_EN_TRABAJO/PLAN_DEL_PROYECTO_v0.2.md`: reglas de trabajo, etapas, piloto comercial chico, decisiones pendientes D1-D5.
+- `03_EN_TRABAJO/conocimiento/FORMULA_MEDALLON_v0.1.md`: fuente única de la fórmula. Detectada diferencia guía 2:1 vs bot 1:1.
+- `03_EN_TRABAJO/kit_consulta_v0/`: K2 legumbres y K3 merencenas (HTML + PDF de 1 hoja + PNG), y la ficha profesional de merencenas con respaldo clasificado y bibliografía de memoria (†, a verificar). K1 = guías de medallones v0.2 tal cual.
+- `CLAUDE.md`: visión y reglas firmes actualizadas. `tasks/lessons.md` creado.
+
+### Pendientes
+- Decisiones D1-D5 del plan v0.2.
+- Verificar la bibliografía † de la ficha de merencenas.
+- Etapa 2: cargar en el bot las preguntas semanales del kit.

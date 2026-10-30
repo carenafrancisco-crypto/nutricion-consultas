@@ -7,11 +7,18 @@ Dr. Francisco Carena León. Médico en Argentina, ovolactovegetariano. Español 
 Quiere respuestas en criollo, cortas y con una propuesta clara. Le importa ordenarse y ahorrar tiempo.
 
 ## Visión del proyecto (NO OLVIDAR)
-El objetivo es armar PLANES/PROGRAMAS reutilizables, no auditar materiales sueltos:
-- Un **programa general** de alimentación saludable para el público general.
-- **Programas secundarios por patología** (diabetes/prediabetes, obesidad, HTA, dislipemias/Lp(a), digestivo; pediatría por separado), montados sobre el general.
-- Cada programa con evidencia dura de eficacia (ensayos clínicos) y material pedagógico para el paciente.
-- Para qué: ahorrar tiempo de consulta y darle al paciente material que lo ayude.
+Vigente: `00_CONTEXTO/VISION_DEL_PROYECTO_v1.md` (2026-10-30). En corto:
+- Sistema que enseña, acompaña y ayuda a sostener cambios. Primero se usa en consulta y después pasa a ser un **producto comercial de autogestión** (meta explícita: generar ingresos).
+- Biblioteca en tres familias (conocer, preparar, organizar) + merencenas, con **preparaciones universales** (fórmulas, no recetas sueltas) y tres niveles (ficha, guía, técnico).
+- **Programa general** + programas por patología (diabetes/prediabetes, obesidad, HTA, dislipemias/Lp(a), digestivo; pediatría aparte).
+- Bots con base de conocimiento propia y seguimiento desde el comienzo.
+- Inventario: `03_EN_TRABAJO/INDICE_MAESTRO_v0.1.md`.
+
+Reglas firmes de Francisco:
+- **Material usable ya.** Cada etapa deja algo que se use en consulta (estado `EN USO`). No esperar a que esté perfecto.
+- **No borrar indicaciones suyas por falta de evidencia.** Se conservan y se clasifican (`IF` indicación de Francisco, `E1` eficacia demostrada, `E2` respaldo parcial, `E3` hipótesis). Una `IF` sin `E1` se usa de forma individualizada, no como regla para toda la población.
+- **Fuente única**: cada fórmula o regla en un solo archivo de `03_EN_TRABAJO/conocimiento/`.
+- El bot vive en otro repo (`botnutriciondrcarenaleon`). No duplicar lo que ya tiene. Nunca versionar acá sus credenciales ni sus bases de pacientes.
 
 Los materiales de `01_ORIGINALES` son insumo perfectible, no producto.
 
