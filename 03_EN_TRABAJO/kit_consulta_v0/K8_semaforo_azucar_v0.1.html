@@ -1,0 +1,104 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><title>Semáforo del azúcar</title>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:wght@400;700&family=Kalam:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="cuaderno.css">
+<style>
+:root{--sg:#5E9A47;--sy:#E2AE22;--sr:#C8372D}
+.what{font-size:15.5px;color:var(--graphite)}
+.light{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;position:relative}
+.col{background:#fff;border:2px solid var(--ink);border-radius:14px 4px 12px 5px / 5px 12px 4px 14px;padding:10px 13px 12px}
+.col:nth-child(2){border-radius:4px 13px 3px 12px / 12px 4px 14px 3px}
+.col .head{display:flex;align-items:center;gap:10px;margin-bottom:4px}
+.col .lamp{flex:none;width:44px;height:44px;box-shadow:inset -4px -4px 0 rgba(0,0,0,.12);border-radius:50%;border:2.5px solid var(--ink)}
+.col h3{font-size:26px;line-height:1}
+.col h3 small{display:block;font-size:16.5px;font-weight:400;color:var(--graphite)}
+.col ul{list-style:none;font-size:15.6px;line-height:1.34;color:var(--ink)}
+.col li{padding-left:12px;position:relative;margin-bottom:2px}
+.col li::before{content:"-";position:absolute;left:0;color:var(--graphite)}
+.col li i{font-style:normal;color:var(--graphite)}
+.casing{display:flex;justify-content:center;margin-bottom:-6px}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:18px;align-items:start}
+.two p,.two li{font-size:15px;line-height:1.36}
+.tips{list-style:none}
+.tips li{padding-left:18px;position:relative;margin-bottom:3px;color:var(--graphite)}
+.tips li::before{content:"";position:absolute;left:2px;top:7px;width:8px;height:8px;border-radius:50%;background:var(--sg)}
+.tips b{color:var(--ink)}
+.ast{color:var(--red);font-family:"Kalam",cursive;font-weight:700}
+</style></head><body>
+
+<div class="doodle" style="top:300px;font-size:26px;left:8px;width:30px">¡!</div>
+<div class="doodle" style="top:700px">
+  <svg width="40" height="40" viewBox="0 0 40 40" aria-hidden="true"><circle cx="20" cy="20" r="16" fill="none" stroke="#C8372D" stroke-width="2.4"/><circle cx="14" cy="16" r="2.2" fill="#C8372D"/><circle cx="26" cy="16" r="2.2" fill="#C8372D"/><path d="M12 24 Q20 32 28 24" fill="none" stroke="#C8372D" stroke-width="2.4" stroke-linecap="round"/></svg>
+  ¡truco!
+</div>
+
+<header>
+  <h1>Semáforo del azúcar</h1>
+  <svg class="squiggle" width="300" height="12" viewBox="0 0 300 12" aria-hidden="true"><path d="M3 8 C 40 3, 70 11, 110 6 S 190 3, 230 7 S 280 9, 297 4" fill="none" stroke="#5E9A47" stroke-width="4" stroke-linecap="round"/></svg>
+  <p class="what">Cuánto y qué tan rápido sube el azúcar en sangre después de comer cada alimento con hidratos (su índice glucémico).</p>
+</header>
+
+<div class="light">
+  <div class="col">
+    <div class="head"><span class="lamp" style="background:var(--sg)"></span><h3>Verde<small>sin restricción</small></h3></div>
+    <ul>
+      <li>Verduras: lechuga, acelga, espinaca, rúcula, tomate, apio, berenjena, zapallo, zucchini, repollo, kale, coliflor, brócoli</li>
+      <li>Legumbres<span class="ast">*</span>: porotos, lentejas, arvejas, garbanzos</li>
+      <li>Quinoa y amaranto hervidos</li>
+      <li>Trigo sarraceno</li>
+      <li>Yogur natural, kéfir, leche</li>
+      <li>Frutilla, arándanos, tuna</li>
+      <li>Fruta de estación entera: manzana, pera, naranja, durazno, ciruela</li>
+    </ul>
+  </div>
+  <div class="col">
+    <div class="head"><span class="lamp" style="background:var(--sy)"></span><h3>Amarillo<small>limitar: porción chica</small></h3></div>
+    <ul>
+      <li>Arroz yamaní integral</li>
+      <li>Avena <i>(la instantánea sube más)</i></li>
+      <li>Fideos al dente <i>(mejor integrales o de legumbre)</i></li>
+      <li>Batata, mandioca</li>
+      <li>Mijo</li>
+      <li>Masitas y pizza de harina integral</li>
+      <li>Banana madura, uva, ananá</li>
+      <li>Exprimidos de fruta con pulpa</li>
+    </ul>
+  </div>
+  <div class="col">
+    <div class="head"><span class="lamp" style="background:var(--sr)"></span><h3>Rojo<small>evitar</small></h3></div>
+    <ul>
+      <li>Papa, puré, ñoquis</li>
+      <li>Arroz blanco</li>
+      <li>Harina de arroz y galletas de arroz</li>
+      <li>Pan y tostadas <i>(también el "integral" común: sube casi igual que el blanco)</i></li>
+      <li>Masitas, pizza, facturas</li>
+      <li>Azúcar, miel, golosinas</li>
+      <li>Gaseosas, jugos, exprimidos sin pulpa</li>
+      <li>Alcohol</li>
+    </ul>
+  </div>
+</div>
+
+<div class="two">
+  <div class="box">
+    <h3>Casi no tienen hidratos</h3>
+    <p>No suben el azúcar, así que no van en el semáforo. Lo que importa es la cantidad: <b>huevo, carne</b> (hasta 3 porciones por semana), <b>pescado, queso</b> (poco), <b>palta</b> y <b>frutos secos</b> (un puñado por día).</p>
+  </div>
+  <div>
+    <h3>Para que suba menos</h3>
+    <ul class="tips">
+      <li><b>Combiná:</b> el pan, el arroz o la fruta con verduras, legumbres, proteína o grasa buena suben menos.</li>
+      <li><b>Empezá por las verduras</b> y dejá el hidrato para el final del plato.</li>
+      <li><b>Fideos al dente;</b> arroz, papa y fideos cocidos y enfriados (aunque después los recalientes) suben menos.</li>
+      <li><b>La cantidad importa:</b> un plato chico de algo amarillo sube menos que uno grande.</li>
+    </ul>
+  </div>
+</div>
+
+<p style="font-size:14.6px;color:var(--graphite)"><span class="ast">*</span> Legumbres: mejor con remojo fermentado de 24 a 36 h (con kéfir de agua o suero de yogur; el vinagre o el limón solos acidifican pero no fermentan). Tirá el agua y hervilas con una pizca de bicarbonato: bajan los antinutrientes y caen mejor. Si hace falta endulzar, stevia pura.</p>
+
+<footer>
+  <div><div class="sig">Dr. Francisco Carena León</div>Médico. Mg. en Psiconeuroinmunoendocrinología. Matrícula 6796L4F20</div>
+  <div>Borrador v0.1, 2026</div>
+</footer>
+</body></html>

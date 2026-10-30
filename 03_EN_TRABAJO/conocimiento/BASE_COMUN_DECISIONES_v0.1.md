@@ -67,6 +67,10 @@ Maca, spirulina, moringa, matcha, arropes regionales, cacao amargo, coco, frutos
 
 Consejo base, en una oración: 9000 pasos por día (unos 40 minutos de caminar, bailar, hacer la huerta o cualquier movimiento, además de lo cotidiano) y, en la semana, al menos 150 minutos de actividad moderada. El tema se desarrolla aparte en el módulo de movimiento. Respaldo, de memoria (†): metaanálisis de pasos y mortalidad (Paluch 2022, Lancet Public Health): el beneficio se aplana entre 6000-8000 pasos en mayores de 60 y 8000-10000 en menores; OMS 2020: 150-300 min/semana moderada + fuerza 2 días.
 
+## D8 - Semáforo del azúcar (IF + E2)
+
+Se corrige la tabla original, no se retira (Francisco). Cambios: alimentos casi sin hidratos fuera del semáforo (cuenta la cantidad); leche y trigo sarraceno a verde; fideos al dente a amarillo; pan "integral" común a rojo; nota de legumbres: el remojo fermentado "baja" (no "neutraliza") los antinutrientes; consejos para bajar el impacto (combinar, verduras primero, al dente, almidón enfriado, cantidad). Valores de IG de memoria (tablas internacionales, Atkinson †): verificar.
+
 ## Pendientes de decidir (de la auditoría 2026-10-25)
 
-D8 tabla de índice glucémico; boldo (precaución en embarazo y uso prolongado).
+ boldo (precaución en embarazo y uso prolongado).
