@@ -102,3 +102,8 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 
 ## 2026-10-30 (parte 3) - Corrección K2 legumbres
 - Se había omitido el remojo fermentado de 24-36 h (indicación de Francisco). Repuesto como primera opción, con recuadro propio (por qué, cómo, señales de que va bien o hay que tirar) y en la semana de ejemplo (fermenta viernes, cocina domingo). Índice: K2 = IF + E2.
+
+## 2026-10-30 (parte 4) - Rediseño visual del kit (prototipo K2)
+- Francisco: el diseño v0.1 le parece una plantilla genérica de IA. Elegido: estilo "cuaderno de cocina", ilustraciones propias, impreso y celular, pacientes muy variados (letra grande).
+- Prototipo `kit_consulta_v0/K2_legumbres_v0.2` (HTML, PDF 1 hoja, PNG): hoja de cuaderno cuadriculado argentino con margen rojo; títulos en Kalam (manuscrita), texto en Atkinson Hyperlegible (para baja visión); frasco fermentando dibujado, pegado con cinta como nota. Mismo contenido que v0.1, incluido el remojo fermentado.
+- Pendiente: OK de Francisco para aplicar el estilo a K3 merencenas y a los medallones. Las fuentes se bajan de Google Fonts al renderizar (hace falta internet).
