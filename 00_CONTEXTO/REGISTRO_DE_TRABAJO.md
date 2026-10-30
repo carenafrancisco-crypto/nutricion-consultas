@@ -136,3 +136,15 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 - Matices a discutir: fermentados no bajan caseína; ensayos con maní tostado neutros/favorables en lípidos; frutos secos "5 a 7 unidades" vs puñado ~30 g; el apartado "cómo tratar frutos secos" del folleto no existe.
 
 - Corrección (Francisco): se sacó "con leche pasteurizada" (advertencia desubicada). Puñado de frutos secos = lo que entra en el puño (reemplaza "5 a 7 unidades").
+
+## 2026-10-30 (parte 8) - Grasas y plato saludable
+### Entró
+- Francisco pidió un estudio de grasas con las dos posturas (omega 6, manteca, ghee, coco) y, después, aplicarlo: oliva base, girasol alto oleico también sirve, manteca/ghee/coco poco y como sabor, no reciclar aceite.
+- Plato saludable: salvar lo que valga la pena del cuadro original, mejorar el resto y acercarlo a la colección. Prioridad: que se entienda fácil. Usar las skills de diseño para todo.
+- Pedido nuevo: pieza sobre tofu y similares (B17 en el índice).
+### Producido
+- `conocimiento/ESTUDIO_GRASAS_v0.1.md`; decisiones D1/D2 en `BASE_COMUN_DECISIONES_v0.1.md`.
+- `kit_consulta_v0/K6_plato_saludable_v0.1` (HTML + PDF 1 hoja + PNG): plato claro con proporciones + 12 ilustraciones en acuarela tomadas del cuadro original (`kit_consulta_v0/img/`); texto corregido y ordenado; tips de legumbres fermentadas con bicarbonato, una legumbre por semana y el dulce de a poco. Se descartaron los iconos planos, la cruz gris y el texto dentro del plato.
+- `K5_desayunos`: sección de grasas actualizada (girasol alto oleico, no reciclar aceite).
+### Pendientes
+- Actividad física del cuadro original ("2 veces por semana, 30 min") queda como indicación de Francisco; la OMS recomienda 150 min/semana + fuerza 2 días (a decidir).

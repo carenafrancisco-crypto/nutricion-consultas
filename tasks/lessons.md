@@ -16,3 +16,7 @@
 ## 2026-10-30 - Advertencias triviales
 - Error: agregue "yogur artesanal con leche pasteurizada" a la hoja de desayunos. Francisco: "totalmente desubicado"; ningun paciente toma leche cruda.
 - Regla: no agregar advertencias de seguridad que no aplican a la realidad de sus pacientes (vision, seccion 12: nada de advertencias triviales). Agregar una precaucion solo si el riesgo es real y frecuente en su poblacion; ante la duda, preguntar en vez de agregar.
+
+## 2026-10-30 - "No tiene por que seguir el mismo diseno"
+- Error: Francisco dijo que el cuadro de alimentacion saludable "no tiene por que seguir el mismo diseno que antes" (= no hace falta pasarlo al estilo cuaderno) y "ajustando algunas cositas". Lo rehice desde cero en estilo cuaderno.
+- Regla: cuando pide "ajustar", se parte del diseno original y se cambia lo minimo. Ante una frase ambigua sobre diseno, preguntar antes de rehacer.

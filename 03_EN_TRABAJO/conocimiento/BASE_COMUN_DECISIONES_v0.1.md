@@ -42,6 +42,14 @@ Un puñado por día = lo que entra en el puño de la persona.
 
 Maca, spirulina, moringa, matcha, arropes regionales, cacao amargo, coco, frutos rojos, etc.: **toppings opcionales para dar variedad y evitar la monotonía**. Se presentan así, sin atribuirles beneficios clínicos propios.
 
+## D1 y D2 - Grasas (E1 en LDL; ver `ESTUDIO_GRASAS_v0.1.md`)
+
+- Base: aceite de oliva de primera prensada en frío (lino, en crudo).
+- Girasol, mejor alto oleico: alternativa válida y económica.
+- Manteca, ghee y coco: poco y de vez en cuando, como sabor. Suben el LDL.
+- No reutilizar el aceite para volver a freír.
+- Dislipemias y Lp(a): evitar manteca, ghee y coco (protocolo Lp(a)).
+
 ## Pendientes de decidir (de la auditoría 2026-10-25)
 
-D1 aceites, D2 ghee y coco, D8 tabla de índice glucémico; boldo (precaución en embarazo y uso prolongado).
+D8 tabla de índice glucémico; boldo (precaución en embarazo y uso prolongado).

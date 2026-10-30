@@ -39,6 +39,7 @@ Una indicación `IF` con respaldo `E2` o `E3` se usa de forma individualizada. N
 | K3 | Merencenas: la última comida, más temprano | Merencenas | N1 (paciente) + N3 (profesional) | Digestivo; diabetes/prediabetes; obesidad | EN USO | IF + E2 (dispepsia, glucemia) + E3 (desayuno tardío) | `kit_consulta_v0/K3_merencenas_v0.2.html` (+ PDF y PNG), `kit_consulta_v0/K3_merencenas_ficha_profesional_v0.1.md` |
 | K4 | Legumbre + cereal: mejor juntas (combinar el mismo día; historia de las semillas, los antinutrientes, el fuego y las bacterias) | A. Conocer | N1 | General | EN USO | IF + E2 (complementación de aminoácidos); relato evolutivo = IF | `kit_consulta_v0/K4_mejor_juntas_v0.1.html` (+ PDF y PNG) |
 | K5 | Desayunos y meriendas (fórmula + bebidas + cómo endulzar + toppings + ideas) | B. Preparar + C. Organizar | N1 (2 carillas) | General | EN USO | IF (folleto original de Francisco) + decisiones D3-D6 | `kit_consulta_v0/K5_desayunos_v0.1.html` (+ PDF y PNG por carilla) |
+| K6 | Consejos para una alimentación adecuada (el plato) | A + C | N1 | General | EN USO | IF (cuadro original de Francisco, adaptado de Harvard) + D1-D6 | `kit_consulta_v0/K6_plato_saludable_v0.1.html` (+ PDF y PNG) |
 
 ## 2. A. Conocer los alimentos
 
@@ -74,6 +75,7 @@ Una indicación `IF` con respaldo `E2` o `E3` se usa de forma individualizada. N
 | B14 | Verduras rellenas y al horno | IDEA | "masa horneada rellena" (nueva) | 3 |
 | B15 | Fermentos caseros | IDEA | fuera de alcance en el bot | 3 |
 | B16 | Caldos, salsas, aderezos, condimentos | IDEA | - | 3 |
+| B17 | Tofu y similares (productos de soja y legumbre listos para cocinar): cómo usarlos para variar menús y preparaciones | PENDIENTE (pedido por Francisco 2026-10-30) | - | 1 |
 
 ## 4. C. Organizar comidas y hábitos
 
