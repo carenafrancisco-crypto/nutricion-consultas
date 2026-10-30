@@ -91,7 +91,7 @@ Consejo base, en una oración: 9000 pasos por día (unos 40 minutos de caminar, 
 
 ## D8 - Semáforo del azúcar (IF + E2)
 
-Se corrige la tabla original, no se retira (Francisco). Cambios: alimentos casi sin hidratos fuera del semáforo (cuenta la cantidad); leche y trigo sarraceno a verde; fideos al dente a amarillo; pan "integral" común a rojo; nota de legumbres: el remojo fermentado "baja" (no "neutraliza") los antinutrientes; consejos para bajar el impacto (combinar, verduras primero, al dente, almidón enfriado, cantidad). Valores de IG de memoria (tablas internacionales, Atkinson †): verificar.
+Se corrige la tabla original, no se retira (Francisco). Rótulo del verde: "elegilos seguido" (antes "sin restricción"; aprobado por Francisco 2026-10-30). Cambios: alimentos casi sin hidratos fuera del semáforo (cuenta la cantidad); leche y trigo sarraceno a verde; fideos al dente a amarillo; pan "integral" común a rojo; nota de legumbres: el remojo fermentado "baja" (no "neutraliza") los antinutrientes; consejos para bajar el impacto (combinar, verduras primero, al dente, almidón enfriado, cantidad). Valores de IG de memoria (tablas internacionales, Atkinson †): verificar.
 
 ## Pendientes de decidir (de la auditoría 2026-10-25)
 
