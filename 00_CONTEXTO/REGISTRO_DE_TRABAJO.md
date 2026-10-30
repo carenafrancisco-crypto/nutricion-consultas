@@ -166,3 +166,5 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 - Correcciones: K2 calendario (domingo: 2 frascos a heladera, resto a freezer); K6 pasos ("lo de siempre más 40 min"); K3 pan de grano entero y galletas de semillas o legumbre; K8 "la cantidad también cuenta" y pan de grano entero en amarillo.
 - Plan: piloto corto legumbres → medallones → pregunta de seguimiento; versión celular de K2 y K6 pendiente.
 - Pendiente de hablar con Francisco: rótulo "sin restricción" del verde del semáforo.
+- Semáforo: verde = "elegilos seguido" (Francisco). Plato: "trabajo con el cuerpo (huerta, jardín, obra)".
+- Versión celular de K2: 5 imágenes 1080x1350 para WhatsApp (`kit_consulta_v0/movil/`), un bloque por imagen, letra grande. Es un resumen: la tabla completa de tiempos y algunos detalles quedan en la versión impresa. Pendiente: K6 en el mismo formato si Francisco aprueba.
