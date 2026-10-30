@@ -50,6 +50,10 @@ Maca, spirulina, moringa, matcha, arropes regionales, cacao amargo, coco, frutos
 - No reutilizar el aceite para volver a freír.
 - Dislipemias y Lp(a): evitar manteca, ghee y coco (protocolo Lp(a)).
 
+## Movimiento (IF + E2)
+
+Consejo base, en una oración: 9000 pasos por día (unos 40 minutos de caminar, bailar, hacer la huerta o cualquier movimiento, además de lo cotidiano) y, en la semana, al menos 150 minutos de actividad moderada. El tema se desarrolla aparte en el módulo de movimiento. Respaldo, de memoria (†): metaanálisis de pasos y mortalidad (Paluch 2022, Lancet Public Health): el beneficio se aplana entre 6000-8000 pasos en mayores de 60 y 8000-10000 en menores; OMS 2020: 150-300 min/semana moderada + fuerza 2 días.
+
 ## Pendientes de decidir (de la auditoría 2026-10-25)
 
 D8 tabla de índice glucémico; boldo (precaución en embarazo y uso prolongado).
