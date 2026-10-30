@@ -1,10 +1,10 @@
-# Bloque de legumbre - fuente única v0.1 (BORRADOR)
+# Terrón de legumbres (tofu birmano) - fuente única v0.1 (BORRADOR)
 
 - Fecha: 2026-10-30
 - Programa: general (P0). Familia: B. Preparar (preparación universal).
 - Origen: receta de la casa de Francisco (la hace su señora, con lentejas). Clasificación: IF.
 - Regla: la hoja del kit, el bot y la app toman la fórmula de acá.
-- Nombre provisorio: "bloque de legumbre". Lo elige Francisco (ver abajo).
+- Nombre: "Terrón de legumbres (tofu birmano)" (decidido por Francisco, 2026-10-30).
 
 ## Receta original (IF, como la contó Francisco)
 
@@ -39,9 +39,9 @@ Lo que la vuelve atractiva: sin gluten (sirve a celíacos si los condimentos no 
 
 | # | Punto | Objeción y respaldo | Propuesta |
 |---|---|---|---|
-| B1 | Nombre | "Seitán" es por definición gluten de trigo; esta preparación no tiene gluten. Llamarla seitán confunde, sobre todo a celíacos. | "Bloque de legumbre" (neutral y descriptivo). Otras: "terrina de legumbre", "tofu de lenteja/garbanzo" (nombre que ya usan los recetarios). |
+| B1 | Nombre | "Seitán" es por definición gluten de trigo; esta preparación no tiene gluten. Llamarla seitán confunde, sobre todo a celíacos. | DECIDIDO: "Terrón de legumbres (tofu birmano)". |
 | B2 | "Cualquier legumbre" | Los porotos crudos (sobre todo los rojos) tienen fitohemaglutinina, que se destruye con hervor sostenido: la FDA pide al menos 10 min a 100 °C y recomienda 30 min para asegurar (K-State, citando el Bad Bug Book de la FDA). Una pasta espesa revuelta en sartén puede no llegar pareja a 100 °C ese tiempo. Con lentejas y garbanzos el riesgo es mucho menor. | En la hoja: lentejas, arvejas partidas y garbanzos. Porotos solo si Francisco lo aprueba, con cocción larga a hervor. |
 | B3 | Soja | Cuaja por el almidón; la soja casi no tiene almidón y no cuajaría así (E3, a probar). | Dejarla fuera. |
 | B4 | Proporciones y tiempos | "Un poco de agua" no se puede enseñar. | Confirmar con la receta de la casa: cuánta agua por taza y cuánto tiempo al fuego. |
 
-Después de B1-B4: hoja del kit (K10, estilo cuaderno) + versión celular.
+Después de B2-B4: hoja del kit (K10, estilo cuaderno) + versión celular.

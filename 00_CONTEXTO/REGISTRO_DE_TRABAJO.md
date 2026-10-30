@@ -168,6 +168,8 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 - Pendiente de hablar con Francisco: rótulo "sin restricción" del verde del semáforo.
 - Semáforo: verde = "elegilos seguido" (Francisco). Plato: "trabajo con el cuerpo (huerta, jardín, obra)".
 - Versión celular de K2: 5 imágenes 1080x1350 para WhatsApp (`kit_consulta_v0/movil/`), un bloque por imagen, letra grande. Es un resumen: la tabla completa de tiempos y algunos detalles quedan en la versión impresa. Pendiente: K6 en el mismo formato si Francisco aprueba.
-- Versión celular de K6: 6 imágenes 1080x1350 (`kit_consulta_v0/movil/K6_plato_movil_1..6.png`). Resumen: quedan solo en la impresa la yerba orgánica estacionada, palta y frutos secos como grasas y la lista de legumbres de ejemplo.
-- Receta nueva de la casa de Francisco: `conocimiento/FORMULA_BLOQUE_LEGUMBRE_v0.1.md` (original IF + versión nuestra a probar). Pendiente de Francisco: nombre (no "seitán": no tiene gluten), porotos (fitohemaglutinina), soja, proporciones. Después, hoja K10.
+- Versión celular de K6: 5 imágenes 1080x1350 (`kit_consulta_v0/movil/K6_plato_movil_1..5.png`), solo alimentación (movimiento y relajación quedan en la impresa, que es la infografía de todo en una; probióticos pasan a "Para tomar"). Resumen: quedan solo en la impresa la yerba orgánica estacionada, palta y frutos secos como grasas y la lista de legumbres de ejemplo.
+- Receta nueva de la casa de Francisco: `conocimiento/FORMULA_TERRON_LEGUMBRES_v0.1.md` (original IF + versión nuestra a probar). Pendiente de Francisco: nombre (no "seitán": no tiene gluten), porotos (fitohemaglutinina), soja, proporciones. Después, hoja K10.
 - Repo en GitHub figura PÚBLICO (CLAUDE.md dice privado). Historial revisado: sin .env, sqlite ni carpeta del bot. Consultar a Francisco.
+- Nombre de la receta: "Terrón de legumbres (tofu birmano)" (Francisco). Archivo: `FORMULA_TERRON_LEGUMBRES_v0.1.md`.
+- Foco: terminar nutrición y alimentación antes de abrir movimiento (Francisco).
