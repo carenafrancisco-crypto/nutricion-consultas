@@ -73,4 +73,4 @@ Sigue la tabla de la sección 3 de `PLAN_DEL_PROYECTO_v0.1.md`, todavía sin ver
 
 Recorrido: legumbres (K2) → medallones (K1) → una pregunta de seguimiento a la semana ("¿cocinaste la legumbre? ¿hiciste medallones? ¿qué te costó?").
 Qué se observa: si la persona entiende, cocina y repite, y cuánto tiempo de consulta ahorra. Con eso, la pieza pasa a `PROBADO`.
-Pendiente de diseño: versión para celular (bloques con letra mayor) de las hojas más cargadas (K2, K6), aparte de la versión impresa.
+Versión para celular (bloques con letra mayor): K2 y K6 hechas (`kit_consulta_v0/movil/`), aparte de la versión impresa.
