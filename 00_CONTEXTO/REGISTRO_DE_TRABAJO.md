@@ -99,3 +99,6 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 - Decisiones D1-D5 del plan v0.2.
 - Verificar la bibliografía † de la ficha de merencenas.
 - Etapa 2: cargar en el bot las preguntas semanales del kit.
+
+## 2026-10-30 (parte 3) - Corrección K2 legumbres
+- Se había omitido el remojo fermentado de 24-36 h (indicación de Francisco). Repuesto como primera opción, con recuadro propio (por qué, cómo, señales de que va bien o hay que tirar) y en la semana de ejemplo (fermenta viernes, cocina domingo). Índice: K2 = IF + E2.

@@ -32,7 +32,7 @@ Una indicación `IF` con respaldo `E2` o `E3` se usa de forma individualizada. N
 |---|---|---|---|---|---|---|---|
 | K1 | Medallones vegetales | B. Preparar | N1 + N2 | General | EN USO | E2 (calidad proteica) | `Guia_practica_medallones_vegetales_v0.2.docx`, `Guia_ampliada_...v0.2.docx`, `infografia_medallones/` |
 | K1-F | Fórmula del medallón (fuente única) | B. Preparar | Conocimiento | General | BORRADOR | E2 | `conocimiento/FORMULA_MEDALLON_v0.1.md` |
-| K2 | Legumbres: cocinar una vez, comer toda la semana | A. Conocer + C. Organizar | N1 | General | EN USO | ? (pendiente de referencias) | `kit_consulta_v0/K2_legumbres_v0.1.html` |
+| K2 | Legumbres: cocinar una vez, comer toda la semana | A. Conocer + C. Organizar | N1 | General | EN USO | IF + E2 (remojo fermentado 24-36 h: menos antinutrientes y gases); resto ? | `kit_consulta_v0/K2_legumbres_v0.1.html` |
 | K3 | Merencenas: la última comida, más temprano | Merencenas | N1 (paciente) + N3 (profesional) | Digestivo; diabetes/prediabetes; obesidad | EN USO | IF + E2 (dispepsia, glucemia) + E3 (desayuno tardío) | `kit_consulta_v0/K3_merencenas_v0.1.html`, `kit_consulta_v0/K3_merencenas_ficha_profesional_v0.1.md` |
 
 ## 2. A. Conocer los alimentos

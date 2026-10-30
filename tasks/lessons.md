@@ -8,3 +8,7 @@
 ## 2026-10-30 - Material usable antes que perfecto
 - Regla: cada etapa termina con al menos una pieza "lista para consulta" que Francisco usa ya. "Lista para consulta" no es "version final": se mejora usandola.
 - Antes de abrir un frente nuevo, preguntar que pieza ya esta en uso.
+
+## 2026-10-30 - Se perdio el remojo fermentado al hacer la hoja de legumbres
+- Error: al armar K2 desde la guia de medallones se omitio el remojo fermentado de 24-36 h, indicacion de Francisco (vision sec. 3 y guia v0.2).
+- Regla: una pieza derivada lleva TODAS las indicaciones de Francisco de su fuente. Antes de cerrar, listar las indicaciones de la fuente y tildarlas una por una en la pieza nueva. Omitir = sacar: no se hace sin hablarlo antes.
