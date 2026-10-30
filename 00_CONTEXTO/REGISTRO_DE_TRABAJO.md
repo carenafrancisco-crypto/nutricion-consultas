@@ -148,3 +148,5 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 - `K5_desayunos`: sección de grasas actualizada (girasol alto oleico, no reciclar aceite).
 ### Pendientes
 - Actividad física del cuadro original ("2 veces por semana, 30 min") queda como indicación de Francisco; la OMS recomienda 150 min/semana + fuerza 2 días (a decidir).
+- K6: actividad física = "9000 pasos (unos 40 min) + mínimo 150 min por semana" (Francisco).
+- K7 `Legumbres listas para usar` (familia "Legumbres y granos", tono universal, no vegano): tofu, tempeh, texturizados de soja y otras legumbres, fideos y harinas de legumbre. Seitán fuera (no es legumbre).
