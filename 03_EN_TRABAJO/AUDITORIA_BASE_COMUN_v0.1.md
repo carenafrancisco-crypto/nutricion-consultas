@@ -5,6 +5,8 @@
 - Alcance: los tres materiales generales (`Copy of Alimentacion saludable Fran.pdf`, `DESAYUNO Y MERIENDA.docx.pdf`, `alimentos alto indice glucemia.pdf`) y el texto de legumbres (conversación 8). El protocolo Lp(a) tiene auditoría propia: `AUDITORIA_PROTOCOLO_LPA_v0.1.md`.
 - Originales intactos en `01_ORIGINALES/`. Nada se cambió en ellos.
 
+> **Nota 2026-10-30 (leer antes que el resto):** esta auditoría es anterior a dos reglas de Francisco. (1) Sus indicaciones no se borran por falta de evidencia: donde abajo dice **RETIRAR** o **CORREGIR** sobre algo que indicó él (tipo A), se lee como "conservar, clasificar el respaldo (IF/E1/E2/E3) y usar de forma individualizada", y la decisión es suya. (2) **D7 quedó resuelta:** el remojo fermentado de 24-36 h es indicación de Francisco y va como opción recomendada (hojas K1 y K2 del kit).
+
 ## Cómo leer esta auditoría
 
 Clasificación de cada afirmación (según el archivo de contexto):
