@@ -151,3 +151,5 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 - K6: actividad física = "9000 pasos (unos 40 min) + mínimo 150 min por semana" (Francisco).
 - K7 `Legumbres listas para usar` (familia "Legumbres y granos", tono universal, no vegano): tofu, tempeh, texturizados de soja y otras legumbres, fideos y harinas de legumbre. Seitán fuera (no es legumbre).
 - K7 ampliada a `Despensa para variar` (2 carillas): proteínas listas con seitán, pastas de legumbre e integrales, harinas, granos para hervir (agua y tiempos), soja orgánica, fitoestrógenos (menopausia, próstata). Francisco: no ser rígido, abrir las secciones.
+- K7: soja texturizada como carne picada; formatos (fina, trozos, bloques tipo bife). Harinas de legumbre y de cereal/pseudocereal, mezcladas (masitas, budines, panqueques, hamburguesas, albóndigas); garbanzo para fainá, fainá pizza y masa del seitán.
+- K2: "mejor orgánica certificada"; descartar agua + hervir baja residuos de superficie (glifosato: sin evidencia de reducción; foco en orgánico).
