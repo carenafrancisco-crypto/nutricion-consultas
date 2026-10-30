@@ -15,6 +15,8 @@
 | Ajuste de humedad | corregir textura | no | avena fina, harina de legumbres o de arroz | de a poco |
 | Relleno | variar | no | queso | opcional |
 
+La legumbre se prepara de preferencia con remojo fermentado de 24-36 h (indicación de Francisco; ver K2 legumbres). Si no, remojo común de una noche.
+
 La relación 2:1 es un punto de partida culinario, no una proporción que maximice la calidad proteica.
 
 ## Diferencias con el bot (a resolver)
