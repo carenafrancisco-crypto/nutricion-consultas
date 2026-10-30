@@ -130,7 +130,9 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 - Decisiones de Francisco: objetivo = bienestar y salud, no principalmente bajar de peso; dulce: primero no hace falta, después fruta/dátiles, después stevia pura (esteviol), otros edulcorantes no; lácteos con poca lactosa (fermentados); maní sí, con asterisco para dislipemias; productos especiales = toppings para variedad.
 ### Producido
 - `03_EN_TRABAJO/conocimiento/BASE_COMUN_DECISIONES_v0.1.md` (D3-D6 con respaldo y matices).
-- `kit_consulta_v0/K5_desayunos_v0.1` (2 carillas): todo el contenido del folleto "Desayuno y merienda" en estilo cuaderno, con la fórmula de 4 partes y la escalera para endulzar. Agregados de seguridad: boldo no diario ni en embarazo; castañas de Pará 1 o 2; yogur artesanal con leche pasteurizada.
+- `kit_consulta_v0/K5_desayunos_v0.1` (2 carillas): todo el contenido del folleto "Desayuno y merienda" en estilo cuaderno, con la fórmula de 4 partes y la escalera para endulzar. Agregados de seguridad: boldo no diario ni en embarazo; castañas de Pará 1 o 2.
 - `cuaderno.css`: soporte para hojas de varias carillas (`body.multi` + `.page`).
 ### Pendientes
 - Matices a discutir: fermentados no bajan caseína; ensayos con maní tostado neutros/favorables en lípidos; frutos secos "5 a 7 unidades" vs puñado ~30 g; el apartado "cómo tratar frutos secos" del folleto no existe.
+
+- Corrección (Francisco): se sacó "con leche pasteurizada" (advertencia desubicada). Puñado de frutos secos = lo que entra en el puño (reemplaza "5 a 7 unidades").

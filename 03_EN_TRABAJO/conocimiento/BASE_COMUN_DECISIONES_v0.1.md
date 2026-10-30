@@ -27,7 +27,6 @@ Preferir lácteos con la menor cantidad de lactosa posible: **fermentados** (yog
 
 Matices (a discutir):
 - La fermentación baja la lactosa, pero **no la caseína**: el yogur griego la concentra. Si el objetivo es también bajar caseína, los fermentados no resuelven esa parte.
-- Si se usa yogur "artesanal", que sea con leche pasteurizada.
 
 ## D5 - Maní (IF; respaldo en contra a revisar)
 
@@ -35,10 +34,14 @@ Incluido. Asterisco para dislipemias: el maní se consume tostado y su grasa se 
 
 Matiz: los ensayos que conozco con maní tostado muestran efecto neutro o favorable sobre los lípidos (†, a verificar). Se mantiene como indicación individual para dislipemias, no como exclusión general.
 
+## Frutos secos (IF)
+
+Un puñado por día = lo que entra en el puño de la persona.
+
 ## D6 - Productos especiales: toppings (IF)
 
 Maca, spirulina, moringa, matcha, arropes regionales, cacao amargo, coco, frutos rojos, etc.: **toppings opcionales para dar variedad y evitar la monotonía**. Se presentan así, sin atribuirles beneficios clínicos propios.
 
 ## Pendientes de decidir (de la auditoría 2026-10-25)
 
-D1 aceites, D2 ghee y coco, D8 tabla de índice glucémico; cantidad de frutos secos (el folleto dice 5 a 7 unidades; un puñado ronda 30 g); boldo (precaución en embarazo y uso prolongado).
+D1 aceites, D2 ghee y coco, D8 tabla de índice glucémico; boldo (precaución en embarazo y uso prolongado).

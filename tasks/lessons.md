@@ -12,3 +12,7 @@
 ## 2026-10-30 - Se perdio el remojo fermentado al hacer la hoja de legumbres
 - Error: al armar K2 desde la guia de medallones se omitio el remojo fermentado de 24-36 h, indicacion de Francisco (vision sec. 3 y guia v0.2).
 - Regla: una pieza derivada lleva TODAS las indicaciones de Francisco de su fuente. Antes de cerrar, listar las indicaciones de la fuente y tildarlas una por una en la pieza nueva. Omitir = sacar: no se hace sin hablarlo antes.
+
+## 2026-10-30 - Advertencias triviales
+- Error: agregue "yogur artesanal con leche pasteurizada" a la hoja de desayunos. Francisco: "totalmente desubicado"; ningun paciente toma leche cruda.
+- Regla: no agregar advertencias de seguridad que no aplican a la realidad de sus pacientes (vision, seccion 12: nada de advertencias triviales). Agregar una precaucion solo si el riesgo es real y frecuente en su poblacion; ante la duda, preguntar en vez de agregar.
