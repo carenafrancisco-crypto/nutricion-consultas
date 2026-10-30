@@ -24,3 +24,7 @@
 ## 2026-10-30 - Transcribir literal en vez de mejorar
 - Error: puse "la soja comun esta muy fumigada", copiando a Francisco. Pidio mejorar el dato y escribir para adultos.
 - Regla: cada indicacion de Francisco se convierte en el dato preciso y bien formulado, registro adulto (ni infantil ni academico). Separar el problema real (residuos de glifosato) de lo que no tiene respaldo (que lo transgenico en si haga mal).
+
+## 2026-10-30 - "Dejando por obvio lo etico"
+- Error: entendi "dejar afuera lo etico". Francisco queria que lo etico aparezca como sutileza, sin incomodar a quien no es vegetariano.
+- Regla: los temas sensibles (etica animal, veganismo) van como un guino breve y amable, no se omiten ni se sermonea. Ante una instruccion ambigua de este tipo, preguntar.
