@@ -42,6 +42,7 @@ Una indicación `IF` con respaldo `E2` o `E3` se usa de forma individualizada. N
 | K6 | Consejos para una alimentación adecuada (el plato) | A + C | N1 | General | EN USO | IF (cuadro original de Francisco, adaptado de Harvard) + D1-D6 | `kit_consulta_v0/K6_plato_saludable_v0.1.html` (+ PDF y PNG) |
 | K7 | Despensa para variar: proteínas listas (tofu, tempeh, seitán, texturizados), pastas de legumbre e integrales, granos para hervir | B. Preparar | N1 (2 carillas) | General | EN USO | IF + E2 | `kit_consulta_v0/K7_despensa_para_variar_v0.1.html` (+ PDF y PNG por carilla) |
 | K8 | Semáforo del azúcar (tabla de índice glucémico corregida) | A. Conocer | N1 | Diabetes/prediabetes; obesidad; general | EN USO | IF (tabla original) + E2 (valores de IG de las tablas internacionales †, a verificar) | `kit_consulta_v0/K8_semaforo_azucar_v0.1.html` (+ PDF y PNG) |
+| K9 | Huevo de campo (vs. criadero): perfil de grasas y vitaminas, cómo elegirlo, señales de calidad | A. Conocer | N1 | General | EN USO | IF + E2 (Karsten 2010, estudio chico) | `kit_consulta_v0/K9_huevo_de_campo_v0.1.html` (+ PDF y PNG) |
 
 ## 2. A. Conocer los alimentos
 

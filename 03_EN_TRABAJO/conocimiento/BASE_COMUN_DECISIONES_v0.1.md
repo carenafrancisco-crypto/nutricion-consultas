@@ -70,6 +70,13 @@ Maca, spirulina, moringa, matcha, arropes regionales, cacao amargo, coco, frutos
 - Esquema de Francisco (IF, más estricto que las guías): **3 porciones de carne por semana en total: una roja, una blanca y una de pescado, con opción de sumar otra de pescado.** Coincide con EAT-Lancet (unos 100 g de carne roja por semana) y con la AHA (2 porciones de pescado por semana †).
 - La mayoría de las guías limitan la carne roja y los procesados, no todas las carnes juntas (WCRF: hasta unos 3 porciones de carne roja por semana).
 
+## Huevo de campo (IF + E2)
+
+- Pastura vs. jaula con balanceado: más del doble de omega 3, menos de la mitad de relación omega 6/3, el doble de vitamina E (Karsten 2010, Renewable Agric Food Syst; estudio chico, Penn State).
+- No se usa en las hojas: "hormonas" en aves (mito; no se usan en la región).
+- Hipótesis de Francisco, sin evidencia suficiente para la hoja (E3): que los residuos de los granos del balanceado se concentran en la grasa del huevo. El glifosato es hidrosoluble y aparece en niveles muy bajos en huevos; los plaguicidas liposolubles persistentes están prohibidos. Lo que sí se concentra en la yema (dioxinas, PCB) aparece más en huevos de campo, por el suelo (Italia 2022, Taiwán 2010): de ahí el consejo de comprar lejos de rutas, basurales e industrias.
+- Color de yema: depende sobre todo del maíz o pigmentos del alimento; no indica sistema de cría. Yema firme, clara espesa y cáscara dura: frescura y buena alimentación.
+
 ## Movimiento (IF + E2)
 
 Consejo base, en una oración: 9000 pasos por día (unos 40 minutos de caminar, bailar, hacer la huerta o cualquier movimiento, además de lo cotidiano) y, en la semana, al menos 150 minutos de actividad moderada. El tema se desarrolla aparte en el módulo de movimiento. Respaldo, de memoria (†): metaanálisis de pasos y mortalidad (Paluch 2022, Lancet Public Health): el beneficio se aplana entre 6000-8000 pasos en mayores de 60 y 8000-10000 en menores; OMS 2020: 150-300 min/semana moderada + fuerza 2 días.
