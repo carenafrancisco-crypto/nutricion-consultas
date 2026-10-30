@@ -1,0 +1,44 @@
+# Base común - decisiones de Francisco v0.1
+
+- Fecha: 2026-10-30
+- Regla: estas decisiones valen para todas las hojas, guías y para el bot. Si cambian, cambian acá primero.
+- Respaldo: `IF` indicación de Francisco · `E1` eficacia demostrada · `E2` respaldo parcial · `E3` hipótesis fisiológica.
+
+## Encuadre
+
+**El objetivo del programa es el bienestar y la salud, no principalmente bajar de peso.** Toda hoja lo deja claro cuando habla de dulces, porciones o reemplazos.
+
+## D3 - Dulce y edulcorantes (IF + E2)
+
+Orden de preferencia:
+1. No hace falta que todo sea dulce. Bajar el dulzor de a poco hasta acostumbrarse al sabor real.
+2. Si hace falta dulce: fruta, 1 o 2 dátiles, ciruelas pasas, arrope sin azúcar. Con moderación.
+3. Si se busca no sumar calorías: **stevia pura** (glucósidos de esteviol). Leer la etiqueta: muchos productos "stevia" vienen mezclados con eritritol, maltodextrina u otros edulcorantes.
+4. Otros edulcorantes (sucralosa, aspartamo, sacarina, etc.): no recomendados. No todos son iguales: afectan de distinta manera la microbiota, la neurobiología y la fisiología.
+5. Miel y azúcar mascabo: casi azúcar pura. Desaconsejados; si no se puede prescindir, mejor que el azúcar común, en poca cantidad.
+
+Para bajar de peso, cualquier edulcorante es mejor que el azúcar; pero ese no es el objetivo principal.
+
+Respaldo, de memoria (†, a verificar): ensayo de Suez 2022 (Cell): sacarina y sucralosa alteraron la respuesta glucémica vía microbiota; stevia y aspartamo cambiaron la microbiota con menos efecto glucémico. Eritritol asociado a mayor riesgo trombótico (Witkowski 2023, Nat Med, observacional + mecanístico). Guía OMS 2023: no usar edulcorantes no calóricos para controlar el peso (condicional; incluye stevia).
+
+## D4 - Lácteos (IF + E2)
+
+Preferir lácteos con la menor cantidad de lactosa posible: **fermentados** (yogur natural, yogur griego, kéfir) y ricota o requesón. Gran parte de la humanidad pierde la lactasa después del destete; la lactosa puede dar síntomas, sobre todo en dispepsia.
+
+Matices (a discutir):
+- La fermentación baja la lactosa, pero **no la caseína**: el yogur griego la concentra. Si el objetivo es también bajar caseína, los fermentados no resuelven esa parte.
+- Si se usa yogur "artesanal", que sea con leche pasteurizada.
+
+## D5 - Maní (IF; respaldo en contra a revisar)
+
+Incluido. Asterisco para dislipemias: el maní se consume tostado y su grasa se oxida con el calor; en colesterol alto, preferir frutos secos crudos.
+
+Matiz: los ensayos que conozco con maní tostado muestran efecto neutro o favorable sobre los lípidos (†, a verificar). Se mantiene como indicación individual para dislipemias, no como exclusión general.
+
+## D6 - Productos especiales: toppings (IF)
+
+Maca, spirulina, moringa, matcha, arropes regionales, cacao amargo, coco, frutos rojos, etc.: **toppings opcionales para dar variedad y evitar la monotonía**. Se presentan así, sin atribuirles beneficios clínicos propios.
+
+## Pendientes de decidir (de la auditoría 2026-10-25)
+
+D1 aceites, D2 ghee y coco, D8 tabla de índice glucémico; cantidad de frutos secos (el folleto dice 5 a 7 unidades; un puñado ronda 30 g); boldo (precaución en embarazo y uso prolongado).

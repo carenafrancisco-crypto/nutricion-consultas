@@ -25,6 +25,8 @@ Una indicación `IF` con respaldo `E2` o `E3` se usa de forma individualizada. N
 
 **Nivel** (sección 6 de la visión): `N1` ficha visual · `N2` guía ampliada · `N3` documento técnico.
 
+**Decisiones de base común** (dulce, lácteos, maní, toppings): `conocimiento/BASE_COMUN_DECISIONES_v0.1.md`.
+
 **Fuente única**: cada conocimiento reutilizable (una fórmula, una regla) vive en un solo archivo de `03_EN_TRABAJO/conocimiento/`. El Word, la infografía, el bot y la app lo toman de ahí. No se reescribe en cada formato.
 
 ## 1. Kit de consulta v0 (prioridad 1, ahora)
@@ -36,6 +38,7 @@ Una indicación `IF` con respaldo `E2` o `E3` se usa de forma individualizada. N
 | K2 | Legumbres: una legumbre y un cereal por semana, cocinar una vez, comer toda la semana | A. Conocer + C. Organizar | N1 | General | EN USO | IF + E2 (remojo fermentado 24-36 h: menos antinutrientes y gases); resto ? | `kit_consulta_v0/K2_legumbres_v0.3.html` (+ PDF y PNG) |
 | K3 | Merencenas: la última comida, más temprano | Merencenas | N1 (paciente) + N3 (profesional) | Digestivo; diabetes/prediabetes; obesidad | EN USO | IF + E2 (dispepsia, glucemia) + E3 (desayuno tardío) | `kit_consulta_v0/K3_merencenas_v0.2.html` (+ PDF y PNG), `kit_consulta_v0/K3_merencenas_ficha_profesional_v0.1.md` |
 | K4 | Legumbre + cereal: mejor juntas (combinar el mismo día; historia de las semillas, los antinutrientes, el fuego y las bacterias) | A. Conocer | N1 | General | EN USO | IF + E2 (complementación de aminoácidos); relato evolutivo = IF | `kit_consulta_v0/K4_mejor_juntas_v0.1.html` (+ PDF y PNG) |
+| K5 | Desayunos y meriendas (fórmula + bebidas + cómo endulzar + toppings + ideas) | B. Preparar + C. Organizar | N1 (2 carillas) | General | EN USO | IF (folleto original de Francisco) + decisiones D3-D6 | `kit_consulta_v0/K5_desayunos_v0.1.html` (+ PDF y PNG por carilla) |
 
 ## 2. A. Conocer los alimentos
 

@@ -124,3 +124,13 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 - `kit_consulta_v0/K1_medallones_v0.3` (HTML + PDF 1 hoja + PNG): misma fórmula, pasos, 8 combinaciones y 6 trucos que la infografía v0.2. La preparación de la legumbre ahora remite a la hoja de legumbres e incluye el remojo fermentado, que faltaba en la infografía vieja.
 - La infografía vieja (`infografia_medallones/`) sigue embebida en las guías Word v0.2. Pendiente: decidir si los Word pasan a usar la hoja nueva.
 - Guías Word pasadas a v0.3: mismo texto que v0.2; solo se cambió la imagen embebida (infografía vieja -> hoja K1 v0.3 en alta, `kit_consulta_v0/K1_medallones_v0.3_alta.png`). No se regeneraron con el script para no pisar ediciones manuales.
+
+## 2026-10-30 (parte 7) - Desayunos y meriendas + decisiones de base común
+### Entró
+- Decisiones de Francisco: objetivo = bienestar y salud, no principalmente bajar de peso; dulce: primero no hace falta, después fruta/dátiles, después stevia pura (esteviol), otros edulcorantes no; lácteos con poca lactosa (fermentados); maní sí, con asterisco para dislipemias; productos especiales = toppings para variedad.
+### Producido
+- `03_EN_TRABAJO/conocimiento/BASE_COMUN_DECISIONES_v0.1.md` (D3-D6 con respaldo y matices).
+- `kit_consulta_v0/K5_desayunos_v0.1` (2 carillas): todo el contenido del folleto "Desayuno y merienda" en estilo cuaderno, con la fórmula de 4 partes y la escalera para endulzar. Agregados de seguridad: boldo no diario ni en embarazo; castañas de Pará 1 o 2; yogur artesanal con leche pasteurizada.
+- `cuaderno.css`: soporte para hojas de varias carillas (`body.multi` + `.page`).
+### Pendientes
+- Matices a discutir: fermentados no bajan caseína; ensayos con maní tostado neutros/favorables en lípidos; frutos secos "5 a 7 unidades" vs puñado ~30 g; el apartado "cómo tratar frutos secos" del folleto no existe.
