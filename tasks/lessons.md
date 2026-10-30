@@ -20,3 +20,7 @@
 ## 2026-10-30 - "No tiene por que seguir el mismo diseno"
 - Error: Francisco dijo que el cuadro de alimentacion saludable "no tiene por que seguir el mismo diseno que antes" (= no hace falta pasarlo al estilo cuaderno) y "ajustando algunas cositas". Lo rehice desde cero en estilo cuaderno.
 - Regla: cuando pide "ajustar", se parte del diseno original y se cambia lo minimo. Ante una frase ambigua sobre diseno, preguntar antes de rehacer.
+
+## 2026-10-30 - Transcribir literal en vez de mejorar
+- Error: puse "la soja comun esta muy fumigada", copiando a Francisco. Pidio mejorar el dato y escribir para adultos.
+- Regla: cada indicacion de Francisco se convierte en el dato preciso y bien formulado, registro adulto (ni infantil ni academico). Separar el problema real (residuos de glifosato) de lo que no tiene respaldo (que lo transgenico en si haga mal).
