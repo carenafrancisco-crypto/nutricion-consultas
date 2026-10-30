@@ -54,7 +54,7 @@ Maca, spirulina, moringa, matcha, arropes regionales, cacao amargo, coco, frutos
 
 - Soja, mejor orgánica (la convencional está muy fumigada). Legumbres en general: orgánicas si se consiguen.
 - Fitoestrógenos de soja y legumbres: después de la menopausia pueden aliviar sofocos (metaanálisis de isoflavonas, Taku 2012 †); en hombres se asocian a menor riesgo de cáncer de próstata (metaanálisis observacionales, Applegate 2018 †). Tip, no tratamiento.
-- Aclaración: en la hiperplasia prostática se usan alfabloqueantes o inhibidores de la 5-alfa-reductasa, no inhibidores de la aromatasa.
+- Contexto (Francisco): prevención en hombres después de los 40, antes de llegar a inhibidores de la 5-alfa-reductasa por la próstata.
 
 ## Movimiento (IF + E2)
 
