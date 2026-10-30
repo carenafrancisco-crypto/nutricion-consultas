@@ -153,3 +153,5 @@ Para que cualquier agente continúe sin empezar de cero. Leer después de `00_LE
 - K7 ampliada a `Despensa para variar` (2 carillas): proteínas listas con seitán, pastas de legumbre e integrales, harinas, granos para hervir (agua y tiempos), soja orgánica, fitoestrógenos (menopausia, próstata). Francisco: no ser rígido, abrir las secciones.
 - K7: soja texturizada como carne picada; formatos (fina, trozos, bloques tipo bife). Harinas de legumbre y de cereal/pseudocereal, mezcladas (masitas, budines, panqueques, hamburguesas, albóndigas); garbanzo para fainá, fainá pizza y masa del seitán.
 - K2: "mejor orgánica certificada"; descartar agua + hervir baja residuos de superficie (glifosato: sin evidencia de reducción; foco en orgánico).
+- Francisco: sus ideas al pasar son para filtrar (sumar, mejorar o guardar), no para meter a la fuerza. Cajón creado en `tasks/ideas.md`.
+- K7: por qué mezclar harinas (más proteína completa, fibra y minerales que harina blanca o almidón); agroquímicos sin miedo ("no es motivo para dejar las legumbres: el trigo y la harina común se cultivan igual").
