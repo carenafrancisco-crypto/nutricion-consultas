@@ -75,7 +75,7 @@ Una indicación `IF` con respaldo `E2` o `E3` se usa de forma individualizada. N
 | B14 | Verduras rellenas y al horno | IDEA | "masa horneada rellena" (nueva) | 3 |
 | B15 | Fermentos caseros | IDEA | fuera de alcance en el bot | 3 |
 | B16 | Caldos, salsas, aderezos, condimentos | IDEA | - | 3 |
-| B17 | Tofu y similares (productos de soja y legumbre listos para cocinar): cómo usarlos para variar menús y preparaciones | PENDIENTE (pedido por Francisco 2026-10-30) | - | 1 |
+| B17 | Mundo legumbres: tofu, tempeh, soja texturizada, seitán (es de trigo: contiene TACC) y similares; cómo usarlos para variar menús y preparaciones | PENDIENTE (pedido por Francisco 2026-10-30) | - | 1 |
 
 ## 4. C. Organizar comidas y hábitos
 
