@@ -56,6 +56,13 @@ Maca, spirulina, moringa, matcha, arropes regionales, cacao amargo, coco, frutos
 - Fitoestrógenos de soja y legumbres: después de la menopausia pueden aliviar sofocos (metaanálisis de isoflavonas, Taku 2012 †); en hombres se asocian a menor riesgo de cáncer de próstata (metaanálisis observacionales, Applegate 2018 †). Tip, no tratamiento.
 - Contexto (Francisco): prevención en hombres después de los 40, antes de llegar a inhibidores de la 5-alfa-reductasa por la próstata.
 
+## Orgánicos y residuos de agroquímicos (IF + E2/E3)
+
+- Legumbres, granos y harinas: mejor orgánicos certificados (la certificación también excluye transgénicos). Si no se sabe, asumir cultivo convencional.
+- Lavar, remojar descartando el agua y hervir en agua nueva reducen buena parte de los residuos de plaguicidas de superficie (revisiones de procesamiento doméstico: Kaushik 2009; reducciones del 60-90% según el producto). E2.
+- Glifosato: es sistémico (queda dentro del grano) y se mantiene estable en el procesamiento; no hay estudios que muestren cuánto lo baja el remojo o el hervido en legumbres. La fermentación no tiene evidencia para glifosato. El foco es comprar orgánico.
+- El tema alcanza también al trigo y la harina convencional: principio general, no exclusivo de la soja.
+
 ## Movimiento (IF + E2)
 
 Consejo base, en una oración: 9000 pasos por día (unos 40 minutos de caminar, bailar, hacer la huerta o cualquier movimiento, además de lo cotidiano) y, en la semana, al menos 150 minutos de actividad moderada. El tema se desarrolla aparte en el módulo de movimiento. Respaldo, de memoria (†): metaanálisis de pasos y mortalidad (Paluch 2022, Lancet Public Health): el beneficio se aplana entre 6000-8000 pasos en mayores de 60 y 8000-10000 en menores; OMS 2020: 150-300 min/semana moderada + fuerza 2 días.
